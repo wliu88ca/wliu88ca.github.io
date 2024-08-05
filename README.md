@@ -1,9 +1,3 @@
-[[加拿大#丘吉尔]]
-[[英国爱尔兰#英国爱尔兰-官方网站与资料]]
-[蚂蜂窝加拿大(第四版)](D:\vwfans\旅游\中北美\加拿大\蚂蜂窝加拿大(第四版).pdf)
-[SCHWARTZ'S BIFTECK](D:\vwfans\旅游\中北美\加拿大\加东%20安省魁省\SCHWARTZ'S%20BIFTECK.jpeg)
-[不再有我](r:\pc.ods)
-
 # Markdown 大标题
 
 ## Markdown 二级标题
@@ -39,18 +33,3 @@
 | a                                | b           | c          |
 | -------------------------------- | ----------- | ---------- |
 | 列宽fdsafsdfadsfsfddsfasd = 3 cm | 列宽 = 5 cm | 列宽 = 8em |                                 |             |            |
-
-```leaflet
-id: leaflet-map
-image: [[Image.jpg]]
-height: 500px
-lat: 50
-long: 50
-minZoom: 1
-maxZoom: 10
-defaultZoom: 5
-unit: meters
-scale: 1
-marker: default, 39.983334, -82.983330, [[Note]]
-darkMode: true
-```
