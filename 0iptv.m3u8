@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 # Playlist created by SMPlayer 24.5.0 (修订版 10277) (64-bit) 
-#EXTINF:-1 tvg-name="CBC Toronto" tvg-logo="" group-title="新闻",CTV Toronto HDTV (CTVHT)
+#EXTINF:-1 tvg-name="CTV Toronto" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/CTV_2018.svg/revision/latest?cb=20180927012001" group-title="新闻",CTV Toronto HDTV (CTVHT)
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 #EXTINF:-1 tvg-name="CBC Toronto" tvg-logo="" group-title="新闻",CBC Toronto HDTV (CBLTHD)
 https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
@@ -8,9 +8,9 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5
 https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="新闻",东方卫视
 http://metatvpro.xyz:25461/W1045/4329/428
-#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="新闻",凤凰资讯
+#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="新闻",凤凰资讯
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="新闻",凤凰中文
+#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="新闻",凤凰中文
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="体育",CCTV5
 http://metatvpro.xyz:25461/W1045/4329/397
