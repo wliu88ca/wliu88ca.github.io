@@ -18,7 +18,7 @@ http://metatvpro.xyz:25461/W1045/4329/398
 http://106.59.3.147:55555/udp/239.200.200.88:8020
 #EXTINF:0 tvg-logo="" group-title="体育",足球频道
 http://nmglive.imfc.cn/5n1r1c/182396.m3u8
-#EXTINF:3.81867 tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="新闻",BBC News (720p)
+#EXTINF:3.81867 tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="新闻",BBC News HD
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_新闻_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8?checkedby:iptvcat.com
 #EXTINF:3.3324 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_新闻_Network_logo.svg/512px-One_America_新闻_Network_logo.svg.png" group-title="新闻",OAN (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_720p/playlist.m3u8?checkedby:iptvcat.com
@@ -26,7 +26,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_720p/playlist.m3u8?chec
 https://新闻.codeautoplaycdn1.workers.dev/?channel=fox新闻channel&codeby=nd&checkedby:iptvcat.com
 #EXTINF:3.33333 tvg-logo="" group-title="新闻",Sky News
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="https://image.xumo.com/v1/channels/channel/9999194/300x300.png?type=color_onBlack" group-title="新闻",NEWSMAX TV
+#EXTINF:0 tvg-logo="https://image.xumo.com/v1/channels/channel/9999194/300x300.png?type=color_onBlack" group-title="新闻",Newsmax (NEWSM)
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="" group-title="新闻",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
@@ -36,7 +36,7 @@ http://metatvpro.xyz:25461/W1045/4329/12221
 http://88.212.7.10/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:5.34 tvg-logo="" group-title="体育",ČT Sport (720p)
 http://88.212.7.10/live/test_ctsport_25p/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 group-title="体育",Olympic Channel [Geo-blocked]
+#EXTINF:0 group-title="体育",Olympic Channel HDTV (OLYHD)
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8
 #EXTINF:2.35467 tvg-logo="" group-title="体育",T Sports 7 (720p)
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport/index.m3u8?checkedby:iptvcat.com
@@ -44,11 +44,11 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport/index.m3u8?ch
 http://ott-cdn.ucom.am/s38/index.m3u8?checkedby:iptvcat.com
 #EXTINF:2.765 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Logo_of_French_sports_television_channel_Sport_en_France.png" group-title="体育",Sport En France (720p)
 https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="" group-title="电影",Disney Channel (720p)
+#EXTINF:0 tvg-logo="" group-title="电影",Disney XD (East) (DISXD)
 https://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8?checkedby:iptvcat.com
 #EXTINF:1.56267 tvg-logo="" group-title="体育",Formula 1 Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f172-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=922e06a8-1ba6-4236-9931-06d471735996&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:3.69067 tvg-logo="https://i.imgur.com/UgKRfuw.png" group-title="体育",Gaora Sports (544p)
+#EXTINF:3.69067 tvg-logo="https://i.imgur.com/UgKRfuw.png" group-title="体育",GAORA SPORTS HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&checkedby:iptvcat.com
 #EXTINF:10.7741 tvg-logo="" group-title="体育",M-Net Sport (720p)
 http://ares.mnet.mk/hls/mnet-sport.m3u8?checkedby:iptvcat.com
@@ -56,15 +56,15 @@ http://ares.mnet.mk/hls/mnet-sport.m3u8?checkedby:iptvcat.com
 http://metatvpro.xyz:25461/W1045/4329/12284
 #EXTINF:0 tvg-logo="" group-title="电影",AXN HD
 http://metatvpro.xyz:25461/W1045/4329/208
-#EXTINF:0 tvg-logo="" group-title="电影",HBO HD CN
+#EXTINF:0 tvg-logo="" group-title="电影",HBO
 http://metatvpro.xyz:25461/W1045/4329/12278
 #EXTINF:0 tvg-logo="" group-title="电影",HBO原创巨献
 http://metatvpro.xyz:25461/W1045/4329/13147
-#EXTINF:0 tvg-logo="" group-title="电影",HBO家庭
+#EXTINF:0 tvg-logo="" group-title="电影",HBO溫馨家庭
 http://metatvpro.xyz:25461/W1045/4329/13146
 #EXTINF:0 tvg-logo="" group-title="电影",HBO HITS CN
 http://metatvpro.xyz:25461/W1045/4329/12279
-#EXTINF:0 tvg-logo="" group-title="电影",CINEMAX CN
+#EXTINF:0 tvg-logo="" group-title="电影",CINEMAX热门影院
 http://metatvpro.xyz:25461/W1045/4329/12280
 #EXTINF:0 tvg-logo="" group-title="电影",Warner TV HD
 http://metatvpro.xyz:25461/W1045/4329/215
