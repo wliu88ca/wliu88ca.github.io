@@ -38,7 +38,7 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Olympic_Channel.svg/revision/latest?cb=20170713110144" group-title="体育",Olympic Channel HDTV (OLYHD)
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8
-#EXTINF:0 tvg-logo="" group-title="体育",VIU TV
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/ViuTV_logo_Final.svg/revision/latest?cb=20210411082902" group-title="体育",VIU TV
 http://metatvpro.xyz:25461/W1045/4329/12221
 #EXTINF:0 tvg-logo="" group-title="体育",:Šport (1080p)
 http://88.212.7.10/live/test_rtvs_sport_hevc/playlist.m3u8
@@ -50,7 +50,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport/index.m3u8?ch
 http://ott-cdn.ucom.am/s38/index.m3u8?checkedby:iptvcat.com
 #EXTINF:2.765 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Logo_of_French_sports_television_channel_Sport_en_France.png" group-title="体育",Sport En France
 https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8?checkedby:iptvcat.com
-#EXTINF:1.56267 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/ViuTV_logo_Final.svg/revision/latest?cb=20210411082902" group-title="体育",Formula 1 TV
+#EXTINF:1.56267 tvg-logo="" group-title="体育",Formula 1 TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f172-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=922e06a8-1ba6-4236-9931-06d471735996&serverSideAds=false&checkedby:iptvcat.com
 #EXTINF:3.69067 tvg-logo="https://i.imgur.com/UgKRfuw.png" group-title="体育",GAORA SPORTS HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&checkedby:iptvcat.com
@@ -76,7 +76,7 @@ http://metatvpro.xyz:25461/W1045/4329/215
 http://metatvpro.xyz:25461/W1045/4329/221
 #EXTINF:0 tvg-logo="" group-title="电影",Galaxy Premium
 http://metatvpro.xyz:25461/W1045/4329/223
-#EXTINF:2.81798 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Sony_Movies_2019.svg/revision/latest?cb=20190815211939" group-title="电影",Sony Movie Channel
+#EXTINF:2.81798 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Sony_Movies_2019.svg/revision/latest?cb=20190815211939" group-title="电影",Sony movie
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:2.81798 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210203142657" group-title="电影",Sony cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
