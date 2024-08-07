@@ -28,10 +28,12 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_720p/playlist.m3u8
 http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/NTD_Logo_with_symbol.svg.png/revision/latest?cb=20220624204415" group-title="新闻",NTD TV East
 https://ntd02.akamaized.net/NTDA/index.m3u8
-#EXTINF:0 tvg-logo="https://image.xumo.com/v1/channels/channel/9999194/300x300.png?type=color_onBlack" group-title="新闻",Newsmax TV
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/CNBC_2023.svg/revision/latest?cb=20231120043212" group-title="新闻",CNBC
+http://125.227.210.55:8152/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Bloomberg_tv_2016.svg/revision/latest?cb=20170703173131" group-title="新闻",Bloomberg Television
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF:0 tvg-logo="https://image.xumo.com/v1/channels/channel/9999194/300x300.png?type=color_onBlack" group-title="新闻",Newsmax TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:0 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080904514633_74.png" group-title="新闻",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/CNN.png" group-title="新闻",CNN
