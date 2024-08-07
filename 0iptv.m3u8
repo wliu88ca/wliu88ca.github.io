@@ -24,34 +24,32 @@ http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:3.3324 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/512px-One_America_News_Network_logo.svg.png" group-title="新闻",OAN
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_720p/playlist.m3u8
-#EXTINF:10.0078 tvg-logo="" group-title="新闻",Fox News Channel
+#EXTINF:10.0078 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609091031996264_85.png" group-title="新闻",Fox News Channel
 http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="新闻",NTD TV East
 https://ntd02.akamaized.net/NTDA/index.m3u8
 #EXTINF:0 tvg-logo="https://image.xumo.com/v1/channels/channel/9999194/300x300.png?type=color_onBlack" group-title="新闻",Newsmax TV
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="新闻",Bloomberg Television
+#EXTINF:0 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609083031762103_68.png" group-title="新闻",Bloomberg Television
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-#EXTINF:0 tvg-logo="" group-title="新闻",NHK World
+#EXTINF:0 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080904514633_74.png" group-title="新闻",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="新闻",CNN
+#EXTINF:0 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609084956936616_40.png" group-title="新闻",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 group-title="体育",Olympic Channel HDTV (OLYHD)
+https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8
 #EXTINF:0 tvg-logo="" group-title="体育",VIU TV
 http://metatvpro.xyz:25461/W1045/4329/12221
 #EXTINF:0 tvg-logo="" group-title="体育",:Šport (1080p)
 http://88.212.7.10/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:5.34 tvg-logo="" group-title="体育",ČT Sport (720p)
 http://88.212.7.10/live/test_ctsport_25p/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 group-title="体育",Olympic Channel HDTV (OLYHD)
-https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8
 #EXTINF:2.35467 tvg-logo="" group-title="体育",T Sports 7 (720p)
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport/index.m3u8?checkedby:iptvcat.com
 #EXTINF:4.71478 tvg-logo="" group-title="体育",Viju Sport (480p)
 http://ott-cdn.ucom.am/s38/index.m3u8?checkedby:iptvcat.com
-#EXTINF:2.765 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Logo_of_French_sports_television_channel_Sport_en_France.png" group-title="体育",Sport En France (720p)
+#EXTINF:2.765 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Logo_of_French_sports_television_channel_Sport_en_France.png" group-title="体育",Sport En France
 https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="" group-title="电影",Disney Channel
-https://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8?checkedby:iptvcat.com
 #EXTINF:1.56267 tvg-logo="" group-title="体育",Formula 1 TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f172-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=922e06a8-1ba6-4236-9931-06d471735996&serverSideAds=false&checkedby:iptvcat.com
 #EXTINF:3.69067 tvg-logo="https://i.imgur.com/UgKRfuw.png" group-title="体育",GAORA SPORTS HD
@@ -60,9 +58,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&checkedb
 http://ares.mnet.mk/hls/mnet-sport.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="" group-title="电影",Hollawood HD好莱坞电影
 http://metatvpro.xyz:25461/W1045/4329/12284
-#EXTINF:0 tvg-logo="" group-title="电影",AXN
-http://metatvpro.xyz:25461/W1045/4329/208
-#EXTINF:0 tvg-logo="" group-title="电影",HBO
+#EXTINF:0 tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611154432045568_41.jpg" group-title="电影",HBO
 http://metatvpro.xyz:25461/W1045/4329/12278
 #EXTINF:0 tvg-logo="" group-title="电影",HBO原创巨献
 http://metatvpro.xyz:25461/W1045/4329/13147
@@ -72,18 +68,22 @@ http://metatvpro.xyz:25461/W1045/4329/13146
 http://metatvpro.xyz:25461/W1045/4329/12279
 #EXTINF:0 tvg-logo="" group-title="电影",CINEMAX热门影院
 http://metatvpro.xyz:25461/W1045/4329/12280
-#EXTINF:0 tvg-logo="" group-title="电影",Warner TV HD
+#EXTINF:0 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609082742103441_61.png" group-title="电影",Disney Channel
+https://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609081155573815_90.png" group-title="电影",Warner TV HD
 http://metatvpro.xyz:25461/W1045/4329/215
+#EXTINF:0 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609095014697745_69.png" group-title="电影",HITS Movies HD
+http://metatvpro.xyz:25461/W1045/4329/221
 #EXTINF:0 tvg-logo="" group-title="电影",Galaxy Premium
 http://metatvpro.xyz:25461/W1045/4329/223
-#EXTINF:0 tvg-logo="" group-title="电影",HITS Movies HD
-http://metatvpro.xyz:25461/W1045/4329/221
 #EXTINF:0 tvg-logo="" group-title="电影",Galaxy HD
 http://metatvpro.xyz:25461/W1045/4329/223
 #EXTINF:2.81798 tvg-logo="" group-title="电影",Sony Movie Channel
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:2.81798 tvg-logo="" group-title="电影",Sony cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080252063556_12.png" group-title="电影",AXN
+http://metatvpro.xyz:25461/W1045/4329/208
 #EXTINF:0 tvg-logo="" group-title="电影",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:2.53333 tvg-logo="" group-title="电影",PBS Nature
