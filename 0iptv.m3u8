@@ -6,19 +6,19 @@ https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m
 https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
 #EXTINF:5.46233 tvg-logo="https://i.imgur.com/FOuegme.jpg" group-title="新闻",Global Ontario CIII HDTV (GLBHD)
 https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="" group-title="新闻",东方卫视
+#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="新闻",东方卫视
 http://metatvpro.xyz:25461/W1045/4329/428
-#EXTINF:0 tvg-logo="" group-title="新闻",凤凰资讯
+#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="新闻",凤凰资讯
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:0 tvg-logo="" group-title="新闻",凤凰中文
+#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="新闻",凤凰中文
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:0 tvg-logo="" group-title="体育",CCTV5
+#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="体育",CCTV5
 http://metatvpro.xyz:25461/W1045/4329/397
-#EXTINF:0 tvg-logo="" group-title="体育",CCTV5+
+#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="体育",CCTV5+
 http://metatvpro.xyz:25461/W1045/4329/398
-#EXTINF:0 tvg-logo="" group-title="体育",风云足球
+#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="体育",风云足球
 http://106.59.3.147:55555/udp/239.200.200.88:8020
-#EXTINF:0 tvg-logo="" group-title="体育",足球频道
+#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/足球频道.png" group-title="体育",足球频道
 http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 #EXTINF:3.81867 tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="新闻",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -34,7 +34,7 @@ http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:0 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080904514633_74.png" group-title="新闻",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:0 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609084956936616_40.png" group-title="新闻",CNN
+#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/CNN.png" group-title="新闻",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="体育",Olympic Channel HDTV (OLYHD)
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8
@@ -58,13 +58,13 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&checkedb
 http://ares.mnet.mk/hls/mnet-sport.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="" group-title="电影",Hollawood HD好莱坞电影
 http://metatvpro.xyz:25461/W1045/4329/12284
-#EXTINF:0 tvg-logo="https://epg.pw/media/images/epg/2024/06/11/20240611154432045568_41.jpg" group-title="电影",HBO
+#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/HBO.png" group-title="电影",HBO
 http://metatvpro.xyz:25461/W1045/4329/12278
-#EXTINF:0 tvg-logo="" group-title="电影",HBO原创巨献
+#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/HBOSignature.png" group-title="电影",HBO原创巨献
 http://metatvpro.xyz:25461/W1045/4329/13147
-#EXTINF:0 tvg-logo="" group-title="电影",HBO溫馨家庭
+#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/HBOFamily.png" group-title="电影",HBO溫馨家庭
 http://metatvpro.xyz:25461/W1045/4329/13146
-#EXTINF:0 tvg-logo="" group-title="电影",HBO HITS CN
+#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/HBOHits.png" group-title="电影",HBO HITS CN
 http://metatvpro.xyz:25461/W1045/4329/12279
 #EXTINF:0 tvg-logo="" group-title="电影",CINEMAX热门影院
 http://metatvpro.xyz:25461/W1045/4329/12280
