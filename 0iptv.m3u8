@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 # Playlist created by SMPlayer 24.5.0 (修订版 10277) (64-bit) 
-#EXTINF:-1 tvg-name="CTV Toronto" tvg-logo="https://wliu88ca.github.io/tvg-logo/ctv-ca.png" group-title="新闻",CTV Toronto HDTV (CTVHT)
+#EXTINF:-1 tvg-name="CTV Toronto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-ca.png" group-title="新闻",CTV Toronto HDTV (CTVHT)
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
-#EXTINF:-1 tvg-name="CBC Toronto" tvg-logo="https://wliu88ca.github.io/tvg-logo/CBC.png" group-title="新闻",CBC Toronto HDTV (CBLTHD)
+#EXTINF:-1 tvg-name="CBC Toronto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cbc-toronto-ca.png" group-title="新闻",CBC Toronto HDTV (CBLTHD)
 https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
 #EXTINF:5.46233 tvg-logo="https://i.imgur.com/FOuegme.jpg" group-title="新闻",Global Ontario CIII HDTV (GLBHD)
 https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8?checkedby:iptvcat.com
