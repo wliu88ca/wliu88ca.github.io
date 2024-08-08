@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTM3U
 # Playlist created by SMPlayer 24.5.0 (修订版 10277) (64-bit) 
 #EXTINF:-1 tvg-name="CTV Toronto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-ca.png" group-title="新闻",CTV Toronto HDTV (CTVHT)
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
@@ -28,13 +28,13 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_720p/playlist.m3u8
 #EXTINF:10.0078 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609091031996264_85.png" group-title="新闻",Fox News Channel
 http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/NTD_Logo_with_symbol.svg.png/revision/latest?cb=20220624204415" group-title="新闻",NTD TV East
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/NTD_Logo_with_symbol.svg.png" group-title="新闻",NTD TV East
 https://ntd02.akamaized.net/NTDA/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png" group-title="新闻",CNBC
 http://125.227.210.55:8152/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bloomberg-television-us.png" group-title="新闻",Bloomberg Television
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-#EXTINF:0 tvg-logo="https://image.xumo.com/v1/channels/channel/9999194/300x300.png?type=color_onBlack" group-title="新闻",Newsmax TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax2-us.png" group-title="新闻",Newsmax TV
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:0 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080904514633_74.png" group-title="新闻",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
