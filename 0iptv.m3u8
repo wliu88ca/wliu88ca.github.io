@@ -32,6 +32,18 @@ http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031207/1.m3u8?channel-id=bestzb
 http://106.59.3.147:55555/udp/239.200.200.88:8020
 #EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/足球频道.png" group-title="体育",足球频道
 http://nmglive.imfc.cn/5n1r1c/182396.m3u8
+#EXTINF:0 tvg-logo="hhttps://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-football-uk.png" group-title="体育",天空体育足球
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png" group-title="体育",欧洲体育1
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-2-uk.png" group-title="体育",欧洲体育2
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mutv-uk.png" group-title="体育",曼联MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/real-madrid-tv-es.png" group-title="体育",皇马Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/real-madrid-tv-es.png" group-title="体育",拜仁体育
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6097/index.m3u8
 #EXTINF:3.81867 tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="新闻",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:3.3324 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/512px-One_America_News_Network_logo.svg.png" group-title="新闻",OAN
@@ -50,7 +62,7 @@ http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/CNN.png" group-title="新闻",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="体育",緯來體育
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="体育",緯來體育
 http://125.227.210.55:8155/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/olympic-channel-hz-us.png" group-title="体育",Olympic Channel HDTV (OLYHD)
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8
@@ -80,7 +92,7 @@ http://metatvpro.xyz:25461/W1045/4329/12278
 http://metatvpro.xyz:25461/W1045/4329/13147
 #EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/HBOFamily.png" group-title="电影",HBO溫馨家庭
 http://metatvpro.xyz:25461/W1045/4329/13146
-#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/HBOHits.png" group-title="电影",HBO HITS CN
+#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/HBOHits.png" group-title="电影",HBO强档巨献
 http://metatvpro.xyz:25461/W1045/4329/12279
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hong-kong/cinemax-hk.png" group-title="电影",CINEMAX热门影院
 http://metatvpro.xyz:25461/W1045/4329/12280
