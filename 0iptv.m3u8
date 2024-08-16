@@ -7,7 +7,7 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5
 #EXTINF:5.46233 tvg-logo="https://i.imgur.com/FOuegme.jpg" group-title="新闻",Global Ontario CIII HDTV (GLBHD)
 https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
 #EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="新闻",东方卫视
-http://metatvpro.xyz:25461/W1045/4329/428
+http://gslbservzqhsw.itv.cmvideo.cn/5000000004000014098/1.m3u8?channel-id=bestzb&Contentid=5000000004000014098&livemode=1&stbId=3
 #EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="新闻",上海新闻综合
 http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 #EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="新闻",上海都市
@@ -17,9 +17,9 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="新闻",凤凰中文
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="体育",CCTV5
-http://metatvpro.xyz:25461/W1045/4329/397
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265005/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=3
 #EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="体育",CCTV5+
-http://metatvpro.xyz:25461/W1045/4329/398
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265016/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=3
 #EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="体育",CCTV16
 http://gslbservzqhsw.itv.cmvideo.cn/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 #EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="体育",五星体育
@@ -30,6 +30,10 @@ http://gslbservzqhsw.itv.cmvideo.cn/5000000002000029972/1.m3u8?channel-id=bestzb
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-2-uk.png" group-title="体育",欧洲体育2
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="体育",精品体育
+http://gslbservzqhsw.itv.cmvideo.cn/1000000004000014634/1.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
+#EXTINF:0 tvg-logo="" group-title="体育",超级体育
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000009601/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="体育",緯來體育
 http://125.227.210.55:8155/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="体育",魅力足球
@@ -72,16 +76,6 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/olympic-channel-hz-us.png" group-title="体育",Olympic Channel HDTV (OLYHD)
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hong-kong/viu-tv-hk.png" group-title="体育",VIU TV
-http://metatvpro.xyz:25461/W1045/4329/12221
-#EXTINF:0 tvg-logo="" group-title="体育",:Šport (1080p)
-http://88.212.7.10/live/test_rtvs_sport_hevc/playlist.m3u8
-#EXTINF:5.34 tvg-logo="" group-title="体育",ČT Sport (720p)
-http://88.212.7.10/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:2.35467 tvg-logo="" group-title="体育",T Sports 7 (720p)
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport/index.m3u8
-#EXTINF:4.71478 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/russia/viju-plus-sport-ru.png" group-title="体育",Viju Sport (480p)
-http://ott-cdn.ucom.am/s38/index.m3u8
 #EXTINF:2.765 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Logo_of_French_sports_television_channel_Sport_en_France.png" group-title="体育",Sport En France
 https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
 #EXTINF:1.56267 tvg-logo="" group-title="体育",Formula 1 TV
@@ -92,6 +86,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&checkedb
 http://ares.mnet.mk/hls/mnet-sport.m3u8
 #EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="新闻",乐游
 http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031112/1.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
+#EXTINF:0 tvg-logo="" group-title="电影",超级电影
+http://gslbservzqhsw.itv.cmvideo.cn/1000000003000012426/1.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3
 #EXTINF:0 tvg-logo="" group-title="电影",Hollywood HD好莱坞电影
 http://metatvpro.xyz:25461/W1045/4329/12284
 #EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/HBO.png" group-title="电影",HBO
