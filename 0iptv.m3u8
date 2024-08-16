@@ -86,30 +86,12 @@ http://ares.mnet.mk/hls/mnet-sport.m3u8
 http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031112/1.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
 #EXTINF:0 tvg-logo="" group-title="电影",超级电影
 http://gslbservzqhsw.itv.cmvideo.cn/1000000003000012426/1.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3
-#EXTINF:0 tvg-logo="" group-title="电影",Hollywood HD好莱坞电影
-http://metatvpro.xyz:25461/W1045/4329/12284
-#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/HBO.png" group-title="电影",HBO
-http://metatvpro.xyz:25461/W1045/4329/12278
-#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/HBOSignature.png" group-title="电影",HBO原创巨献
-http://metatvpro.xyz:25461/W1045/4329/13147
-#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/HBOFamily.png" group-title="电影",HBO溫馨家庭
-http://metatvpro.xyz:25461/W1045/4329/13146
-#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/HBOHits.png" group-title="电影",HBO强档巨献
-http://metatvpro.xyz:25461/W1045/4329/12279
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hong-kong/cinemax-hk.png" group-title="电影",CINEMAX热门影院
-http://metatvpro.xyz:25461/W1045/4329/12280
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/disney-channel-ca.png" group-title="电影",Disney Channel
 https://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:0 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609081155573815_90.png" group-title="电影",Warner TV HD
-http://metatvpro.xyz:25461/W1045/4329/215
-#EXTINF:0 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609095014697745_69.png" group-title="电影",HITS Movies HD
-http://metatvpro.xyz:25461/W1045/4329/221
 #EXTINF:2.81798 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sony-movies-us.png" group-title="电影",Sony movie
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:2.81798 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png" group-title="电影",Sony cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:0 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080252063556_12.png" group-title="电影",AXN
-http://metatvpro.xyz:25461/W1045/4329/208
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/wild-earth-vod.png" group-title="电影",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:2.53333 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-us.png" group-title="电影",PBS Nature
