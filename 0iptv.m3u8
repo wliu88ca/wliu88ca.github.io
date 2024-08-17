@@ -30,8 +30,10 @@ http://gslbservzqhsw.itv.cmvideo.cn/5000000002000029972/1.m3u8?channel-id=bestzb
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-2-uk.png" group-title="体育",欧洲体育2
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="体育",精品体育
+#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png" group-title="体育",精品体育
 http://gslbservzqhsw.itv.cmvideo.cn/1000000004000014634/1.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
+#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/NEWTV超级体育.png" group-title="体育",超级体育
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000009601/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="体育",緯來體育
 http://125.227.210.55:8155/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="体育",魅力足球
@@ -82,10 +84,16 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&checkedby:iptvcat.com
 #EXTINF:10.7741 tvg-logo="" group-title="体育",M-Net Sport HD
 http://ares.mnet.mk/hls/mnet-sport.m3u8
-#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="新闻",乐游
+#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="电影",乐游
 http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031112/1.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
-#EXTINF:0 tvg-logo="" group-title="电影",超级电影
+#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/NEWTV黑莓电影.png" group-title="电影",黑莓电影
+http://gslbservzqhsw.itv.cmvideo.cn/1000000004000019624/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
+#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="电影",超级电影
 http://gslbservzqhsw.itv.cmvideo.cn/1000000003000012426/1.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3
+#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="电影",动作电影
+http://gslbservzqhsw.itv.cmvideo.cn/1000000004000018653/1.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
+#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/NEWTV惊悚悬疑.png" group-title="电影",惊悚悬疑
+http://gslbservzqhsw.itv.cmvideo.cn/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/disney-channel-ca.png" group-title="电影",Disney Channel
 https://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:2.81798 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sony-movies-us.png" group-title="电影",Sony movie
