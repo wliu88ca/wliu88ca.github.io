@@ -42,8 +42,8 @@ http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031207/1.m3u8?channel-id=bestzb
 http://106.59.3.147:55555/udp/239.200.200.88:8020
 #EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/足球频道.png" group-title="体育",足球频道
 http://nmglive.imfc.cn/5n1r1c/182396.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-football-uk.png" group-title="体育",Sky Sports Football HD
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tennis-channel-us.png" group-title="体育",Tennis Channel HDTV (TNNSHD)
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mutv-uk.png" group-title="体育",MUTV HD
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/real-madrid-tv-es.png" group-title="体育",REAL MADRID TV
@@ -52,10 +52,8 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 channel-id="samsung-ATBA3300007PT" tvg-id="ATBA3300007PT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300007PT_20230712T021115SQUARE.png_20230712021116.png" tvg-chno="4506" group-title="体育" , FIFA+
 https://jmp2.uk/SamsungTVPlus/CABD1200008JG.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-news-uk.png" group-title="体育",Sky Sports News HD
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="体育",Fox Sports 2 HD
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="体育",CBS Sports Network USA
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:3.81867 tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="新闻",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:3.3324 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/512px-One_America_News_Network_logo.svg.png" group-title="新闻",OAN
@@ -94,6 +92,24 @@ http://gslbservzqhsw.itv.cmvideo.cn/1000000003000012426/1.m3u8?channel-id=ystenl
 http://gslbservzqhsw.itv.cmvideo.cn/1000000004000018653/1.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
 #EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/NEWTV惊悚悬疑.png" group-title="电影",惊悚悬疑
 http://gslbservzqhsw.itv.cmvideo.cn/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png" group-title="电影",AMC
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-channel-us.png" group-title="电影",Hallmark Channel HDTV (East) (HALLHD)
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-comedy-us.png" group-title="电影",STARZ Comedy HD (East) (SZCHD)
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-edge-us.png" group-title="电影",STARZ Edge HD (East) (SZEHD)
+http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-us.png" group-title="电影",STARZ ENCORE HD (East) (STZEH)
+http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-action-us.png" group-title="电影",STARZ ENCORE Action (East) (STZAC)
+http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-marquee-us.png" group-title="电影",MGM+ Marquee HDTV (East) (MGM+MRQ)
+http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-us.png" group-title="电影",MGM+ HDTV (East) (MGM+HD)
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png" group-title="电影",FX Movie Channel HDTV (FXMHD)
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/disney-channel-ca.png" group-title="电影",Disney Channel
 https://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:2.81798 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sony-movies-us.png" group-title="电影",Sony movie
