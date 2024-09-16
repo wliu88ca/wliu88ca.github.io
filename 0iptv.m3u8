@@ -45,9 +45,9 @@ https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0
 #EXTINF:0 tvg-logo="" group-title="体育",CBS Sports Network USA
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:0 tvg-logo="https://wliu88ca.github.io/tvg-logo/huya.png" group-title="体育",虎牙斯诺克
-https://tx.flv.huya.com/src/1099531627777-1099531627777-85899350214967296-2199063379010-10057-A-0-1-imgplus_4000.flv?wsSecret=f4bafcc3267a0f63e58fcfd78fc5026e&wsTime=66e446e0&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mp&fs=bgct&t=102
+https://tx.flv.huya.com/src/1099531627777-1099531627777-85899350214967296-2199063379010-10057-A-0-1.flv?wsSecret=e46b090ff5c6ae8ca9d6853d22aa31c8&wsTime=66e9d79a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mp&fs=bgct&t=102
 #EXTINF:0 tvg-logo="https://wliu88ca.github.io/tvg-logo/huya.png" group-title="体育",虎牙斯诺克副舞台
-https://al.flv.huya.com/src/1099531739995-1099531739995-86381322854989824-2199063603446-10057-A-0-1-imgplus_4000.flv?wsSecret=8f08456546719c3f550ce8a6d6fd47e8&wsTime=66e446ee&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mp&fs=bgct&t=102
+https://al.flv.huya.com/src/1099531739995-1099531739995-86381322854989824-2199063603446-10057-A-0-1.flv?wsSecret=8faddefb26b8ac0f82ee22911a3ed14c&wsTime=66e9878b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mp&fs=bgct&t=102
 #EXTINF:3.81867 tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="新闻",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:3.3324 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/512px-One_America_News_Network_logo.svg.png" group-title="新闻",OAN
