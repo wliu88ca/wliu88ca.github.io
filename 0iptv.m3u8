@@ -35,9 +35,9 @@ http://106.59.3.147:55555/udp/239.200.200.88:8020
 #EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/足球频道.png" group-title="体育",足球频道
 http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 #EXTINF:0 tvg-logo="https://wliu88ca.github.io/tvg-logo/huya.png" group-title="体育",虎牙斯诺克
-https://tx.flv.huya.com/src/1099531627777-1099531627777-85899350214967296-2199063379010-10057-A-0-1-imgplus_4000.flv?wsSecret=e0e0b556595efe24af7805741e8f327c&wsTime=66f05af2&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mp&fs=bgct&t=102
+https://tx.flv.huya.com/src/1099531627777-1099531627777-85899350214967296-2199063379010-10057-A-0-1-imgplus_4000.flv?wsSecret=a7d44e8604ec1a4f486e7b3588f6358e&wsTime=66f45765&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mp&fs=bgct&t=102
 #EXTINF:0 tvg-logo="https://wliu88ca.github.io/tvg-logo/huya.png" group-title="体育",虎牙斯诺克副舞台
-https://al.flv.huya.com/src/1099531739995-1099531739995-86381322854989824-2199063603446-10057-A-0-1-imgplus_4000.flv?wsSecret=3eb6f8edfe399da93fd472e550e1018e&wsTime=66f15d10&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mp&fs=bgct&t=102
+https://al.flv.huya.com/src/1099531739995-1099531739995-86381322854989824-2199063603446-10057-A-0-1-imgplus_4000.flv?wsSecret=45cf79965e6ad8f6fd471e8b0913368a&wsTime=66f4576e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mp&fs=bgct&t=102
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tennis-channel-us.png" group-title="体育",Tennis Channel HDTV (TNNSHD)
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="体育",CBS Sports Network USA
