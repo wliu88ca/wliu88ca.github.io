@@ -1,5 +1,9 @@
 #EXTM3U
 # Playlist created by SMPlayer 24.5.0 (修订版 10277) (64-bit) 
+#EXTINF:0 tvg-logo="https://wliu88ca.github.io/tvg-logo/huya.png" group-title="体育",虎牙斯诺克
+https://tx.flv.huya.com/src/1099531627777-1099531627777-85899350214967296-2199063379010-10057-A-0-1-imgplus_4000.flv?wsSecret=0d6432940834c4f445001371b7dd97df&wsTime=672390cc&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mp&fs=bgct&t=102
+#EXTINF:0 tvg-logo="https://wliu88ca.github.io/tvg-logo/huya.png" group-title="体育",虎牙斯诺克副舞台
+https://al.flv.huya.com/src/1099531739995-1099531739995-86381322854989824-2199063603446-10057-A-0-1-imgplus_4000.flv?wsSecret=300e5338a843797792373eea39fb8435&wsTime=672390d6&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mp&fs=bgct&t=102
 #EXTINF:-1 tvg-name="CTV Toronto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-ca.png" group-title="新闻",CTV Toronto HDTV (CTVHT)
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 #EXTINF:-1 tvg-name="CBC Toronto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cbc-toronto-ca.png" group-title="新闻",CBC Toronto HDTV (CBLTHD)
@@ -34,34 +38,30 @@ http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031207/1.m3u8?channel-id=bestzb
 http://106.59.3.147:55555/udp/239.200.200.88:8020
 #EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/足球频道.png" group-title="体育",足球频道
 http://nmglive.imfc.cn/5n1r1c/182396.m3u8
-#EXTINF:0 tvg-logo="https://wliu88ca.github.io/tvg-logo/huya.png" group-title="体育",虎牙斯诺克
-https://tx.flv.huya.com/src/1099531627777-1099531627777-85899350214967296-2199063379010-10057-A-0-1-imgplus_4000.flv?wsSecret=2524928161283b96355dd6c862066d61&wsTime=67223305&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mp&fs=bgct&t=102
-#EXTINF:0 tvg-logo="https://wliu88ca.github.io/tvg-logo/huya.png" group-title="体育",虎牙斯诺克副舞台
-https://al.flv.huya.com/src/1279516634916-1279516634916-16799111760454877184-2559033393288-10057-A-0-1.flv?wsSecret=cf383522e7e5f385555a273180db1c34&wsTime=672232b4&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mp&fs=bgct&t=102
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tennis-channel-us.png" group-title="体育",Tennis Channel HDTV (TNNSHD)
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="体育",CBS Sports Network USA
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:3.81867 tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="新闻",BBC News
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:3.3324 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/512px-One_America_News_Network_logo.svg.png" group-title="新闻",OAN
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_720p/playlist.m3u8
-#EXTINF:10.0078 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609091031996264_85.png" group-title="新闻",Fox News Channel
-http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/NTD_Logo_with_symbol.svg.png" group-title="新闻",NTD TV East
 https://ntd02.akamaized.net/NTDA/index.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax2-us.png" group-title="新闻",Newsmax TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:10.0078 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609091031996264_85.png" group-title="新闻",Fox News Channel
+https://stream2.cinerama.uz/1252/tracks-v1a1/mono.m3u8
+#EXTINF:3.81867 tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="新闻",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png" group-title="新闻",CNBC
 http://125.227.210.55:8152/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bloomberg-television-us.png" group-title="新闻",Bloomberg Television
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax2-us.png" group-title="新闻",Newsmax TV
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:0 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080904514633_74.png" group-title="新闻",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/CNN.png" group-title="新闻",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/olympic-channel-hz-us.png" group-title="体育",Olympic Channel HDTV (OLYHD)
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tennis-channel-us.png" group-title="体育",Tennis Channel HDTV (TNNSHD)
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="" group-title="体育",CBS Sports Network USA
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:2.765 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Logo_of_French_sports_television_channel_Sport_en_France.png" group-title="体育",Sport En France
 https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
 #EXTINF:1.56267 tvg-logo="" group-title="体育",Formula 1 TV
