@@ -12,10 +12,6 @@ http://gslbservzqhsw.itv.cmvideo.cn/5000000004000014098/1.m3u8?channel-id=bestzb
 http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 #EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="新闻",上海都市
 http://gslbservzqhsw.itv.cmvideo.cn/5000000010000018926/1.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
-#EXTINF:0 tvg-logo="https://wliu88ca.github.io/tvg-logo/huya.png" group-title="体育",虎牙斯诺克
-https://tx.flv.huya.com/src/1099531627777-1099531627777-85899350214967296-2199063379010-10057-A-0-1-imgplus_4000.flv?wsSecret=fdf8eca283a33f2183967afdd6cc711e&wsTime=67b1fe3d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mp&fs=bgct&t=102
-#EXTINF:0 tvg-logo="https://wliu88ca.github.io/tvg-logo/huya.png" group-title="体育",虎牙斯诺克副舞台
-https://tx.flv.huya.com/src/1199578817915-1199578817915-5510195354299006976-2399157759286-10057-A-0-1.flv?wsSecret=92ac6343fd404f2ae55ad5f4ab748939&wsTime=67b1fe31&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mp&fs=bgct&t=102
 #EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="体育",CCTV5
 http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265005/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=3
 #EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="体育",CCTV5+
@@ -38,6 +34,8 @@ http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031207/1.m3u8?channel-id=bestzb
 http://106.59.3.147:55555/udp/239.200.200.88:8020
 #EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/足球频道.png" group-title="体育",足球频道
 http://nmglive.imfc.cn/5n1r1c/182396.m3u8
+#EXTINF:0 tvg-logo="https://wliu88ca.github.io/tvg-logo/huya.png" group-title="体育",虎牙斯诺克
+https://tx.flv.huya.com/src/1099531627777-1099531627777-85899350214967296-2199063379010-10057-A-0-1-imgplus_4000.flv?wsSecret=fdf8eca283a33f2183967afdd6cc711e&wsTime=67b1fe3d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mp&fs=bgct&t=102
 #EXTINF:3.3324 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/512px-One_America_News_Network_logo.svg.png" group-title="新闻",OAN
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/NTD_Logo_with_symbol.svg.png" group-title="新闻",NTD TV East
