@@ -1,107 +1,35 @@
-#EXTM3U
-# Playlist created by SMPlayer 24.5.0 (修订版 10277) (64-bit) 
 #EXTINF:-1 tvg-name="CTV Toronto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-ca.png" group-title="新闻",CTV Toronto HDTV (CTVHT)
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
-#EXTINF:-1 tvg-name="CBC Toronto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cbc-toronto-ca.png" group-title="新闻",CBC Toronto HDTV (CBLTHD)
-https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
 #EXTINF:5.46233 tvg-logo="https://i.imgur.com/FOuegme.jpg" group-title="新闻",Global Ontario CIII HDTV (GLBHD)
 https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
-#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="新闻",东方卫视
-http://gslbservzqhsw.itv.cmvideo.cn/5000000004000014098/1.m3u8?channel-id=bestzb&Contentid=5000000004000014098&livemode=1&stbId=3
-#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="新闻",上海新闻综合
-http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
-#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="新闻",上海都市
-http://gslbservzqhsw.itv.cmvideo.cn/5000000010000018926/1.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
-#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="体育",CCTV5
-http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265005/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=3
-#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="体育",CCTV5+
-http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265016/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=3
-#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="体育",CCTV16
-http://gslbservzqhsw.itv.cmvideo.cn/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
-#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="体育",五星体育
-http://gslbservzqhsw.itv.cmvideo.cn/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
-#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="体育",劲爆体育
-http://gslbservzqhsw.itv.cmvideo.cn/5000000002000029972/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
-#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png" group-title="体育",精品体育
-http://gslbservzqhsw.itv.cmvideo.cn/1000000004000014634/1.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
-#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/NEWTV超级体育.png" group-title="体育",NEWTV超级体育
-http://gslbservzqhsw.itv.cmvideo.cn/1000000001000009601/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="体育",緯來體育
-http://125.227.210.55:8155/VideoInput/play.ts
-#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="体育",魅力足球
-http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
-#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="体育",风云足球
-http://106.59.3.147:55555/udp/239.200.200.88:8020
-#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/足球频道.png" group-title="体育",足球频道
-http://nmglive.imfc.cn/5n1r1c/182396.m3u8
-#EXTINF:0 tvg-logo="https://wliu88ca.github.io/tvg-logo/huya.png" group-title="体育",虎牙斯诺克
-https://tx.flv.huya.com/src/1099531627777-1099531627777-85899350214967296-2199063379010-10057-A-0-1-imgplus_4000.flv?wsSecret=fdf8eca283a33f2183967afdd6cc711e&wsTime=67b1fe3d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mp&fs=bgct&t=102
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/NTD_Logo_with_symbol.svg.png" group-title="新闻",新唐人
+https://live.ntdtv.com/live900/playlist.m3u8
+#EXTINF:0 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080904514633_74.png" group-title="新闻",NHK World Japan
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:3.3324 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/512px-One_America_News_Network_logo.svg.png" group-title="新闻",OAN
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_720p/playlist.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/NTD_Logo_with_symbol.svg.png" group-title="新闻",NTD TV East
-https://ntd02.akamaized.net/NTDA/index.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax2-us.png" group-title="新闻",Newsmax TV
+https://oneamericanews-vizio.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax2-us.png" group-title="新闻",Newsmax2 TV
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/FoxLive.png" group-title="新闻",Fox News Now
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080904514633_74.png" group-title="新闻",NHK World
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:3.81867 tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="新闻",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png" group-title="新闻",CNBC
-http://125.227.210.55:8152/VideoInput/play.ts
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bloomberg-television-us.png" group-title="新闻",Bloomberg Television
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-#EXTINF:10.0078 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609091031996264_85.png" group-title="新闻",Fox News Channel
-https://stream2.cinerama.uz/1252/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/olympic-channel-hz-us.png" group-title="体育",Olympic Channel HDTV (OLYHD)
-https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tennis-channel-us.png" group-title="体育",Tennis Channel HDTV (TNNSHD)
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="体育",CBS Sports Network USA
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:2.765 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Logo_of_French_sports_television_channel_Sport_en_France.png" group-title="体育",Sport En France
-https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
-#EXTINF:1.56267 tvg-logo="" group-title="体育",Formula 1 TV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f172-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=922e06a8-1ba6-4236-9931-06d471735996&serverSideAds=false&checkedby:iptvcat.com
-#EXTINF:3.69067 tvg-logo="https://i.imgur.com/UgKRfuw.png" group-title="体育",GAORA SPORTS HD
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&checkedby:iptvcat.com
-#EXTINF:10.7741 tvg-logo="" group-title="体育",M-Net Sport HD
-http://ares.mnet.mk/hls/mnet-sport.m3u8
-#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="电影",乐游
-http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031112/1.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
-#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="电影",黑莓电影
-http://gslbservzqhsw.itv.cmvideo.cn/1000000004000019624/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
-#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="电影",NEWTV超级电影
-http://gslbservzqhsw.itv.cmvideo.cn/1000000003000012426/1.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3
-#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="电影",NEWTV动作电影
-http://gslbservzqhsw.itv.cmvideo.cn/1000000004000018653/1.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
-#EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/NEWTV惊悚悬疑.png" group-title="电影",惊悚悬疑
-http://gslbservzqhsw.itv.cmvideo.cn/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png" group-title="电影",AMC
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" group-title="电影",Hallmark Channel HDTV (East) (HALLHD)
-http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-comedy-us.png" group-title="电影",STARZ Comedy HD (East) (SZCHD)
-http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-edge-us.png" group-title="电影",STARZ Edge HD (East) (SZEHD)
-http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-us.png" group-title="电影",STARZ ENCORE HD (East) (STZEH)
-http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-encore-action-us.png" group-title="电影",STARZ ENCORE Action (East) (STZAC)
-http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-us.png" group-title="电影",MGM+ HDTV (East) (MGM+HD)
-http://fl2.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mgm-plus-marquee-us.png" group-title="电影",MGM+ Marquee HDTV (East) (MGM+MRQ)
-http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png" group-title="电影",FX Movie Channel HDTV (FXMHD)
-http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/disney-channel-ca.png" group-title="电影",Disney Channel
-https://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:2.81798 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sony-movies-us.png" group-title="电影",Sony movie
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
-#EXTINF:2.81798 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png" group-title="电影",Sony cine
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:0,C-SPAN
+https://tvpass.org/live/CSPAN2/hd
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" group-title="中文",CCTV-5
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+#EXTINF:0,C-CCTV5+
+http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
+#EXTINF:0,C-CCTV台球
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方卫视.png" group-title="中文",东方卫视
+http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/五星体育.png" group-title="中文",五星体育
+http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/上海都市.png" group-title="中文",上海都市
+http://38.75.136.137:98/gslb/dsdqpub/shylhd.m3u8?auth=testpub
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/wild-earth-vod.png" group-title="电影",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:2.53333 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-us.png" group-title="电影",PBS Nature
