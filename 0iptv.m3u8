@@ -1,34 +1,34 @@
-#EXTINF:-1 tvg-name="CTV Toronto" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-ca.png" group-title="新闻",CTV Toronto HDTV (CTVHT)
+#EXTINF:-1 tvg-name="CTV Toronto" tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/ctv-ca.png" group-title="新闻",CTV Toronto HDTV (CTVHT)
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
-#EXTINF:5.46233 tvg-logo="https://i.imgur.com/FOuegme.jpg" group-title="新闻",Global Ontario CIII HDTV (GLBHD)
+#EXTINF:5.46233 tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/Global%20Toronto.png" group-title="新闻",Global Ontario CIII HDTV (GLBHD)
 https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/NTD_Logo_with_symbol.svg.png" group-title="新闻",新唐人
+#EXTINF:0 tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/%E6%96%B0%E5%94%90%E4%BA%BA.png" group-title="新闻",新唐人
 https://live.ntdtv.com/live900/playlist.m3u8
-#EXTINF:0 tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609080904514633_74.png" group-title="新闻",NHK World Japan
+#EXTINF:0 tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/NHK%20World.png" group-title="新闻",NHK World Japan
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-#EXTINF:3.3324 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/512px-One_America_News_Network_logo.svg.png" group-title="新闻",OAN
+#EXTINF:3.3324 tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/OAN.png" group-title="新闻",OAN
 https://oneamericanews-vizio.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax2-us.png" group-title="新闻",Newsmax2 TV
+#EXTINF:0 tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/NEWSMAX2.png" group-title="新闻",Newsmax2 TV
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:0 tvg-logo="https://live.fanmingming.com/tv/FoxLive.png" group-title="新闻",Fox News Now
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:3.81867 tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="新闻",BBC News
+#EXTINF:3.81867 tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/BBC%20News.png" group-title="新闻",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bloomberg-television-us.png" group-title="新闻",Bloomberg Television
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-#EXTINF:0,C-SPAN
+#EXTINF:0,tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/C-SPAN.png" group-title="新闻",C-SPAN
 https://tvpass.org/live/CSPAN2/hd
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" group-title="中文",CCTV-5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" group-title="中文",CCTV5
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-#EXTINF:0,C-CCTV5+
+#EXTINF:0,tvg-name="CCTV5+" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5+.png" group-title="中文",CCTV5+
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
-#EXTINF:0,C-CCTV台球
+#EXTINF:0,tvg-name="CCTV台球" tvg-logo="https://github.com/vircloud/TVLogo/blob/main/%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83.png" group-title="中文",CCTV台球
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方卫视.png" group-title="中文",东方卫视
 http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/五星体育.png" group-title="中文",五星体育
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2.png" group-title="中文",五星体育
 http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/上海都市.png" group-title="中文",上海都市
+#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/%E4%B8%8A%E6%B5%B7%E9%83%BD%E5%B8%82.png" group-title="中文",上海都市
 http://38.75.136.137:98/gslb/dsdqpub/shylhd.m3u8?auth=testpub
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/wild-earth-vod.png" group-title="电影",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
