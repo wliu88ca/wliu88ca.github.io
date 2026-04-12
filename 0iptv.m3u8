@@ -2,12 +2,14 @@
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 #EXTINF:5.46233 tvg-name="Global Ontario CIII HDTV (GLBHD)" tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/Global%20Toronto.png" group-title="新闻",Global Ontario
 https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/Eurosport.png"  group-title="体育",tvg-name="EUROSPORT1",Eurosport1
+#EXTINF:-1 tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/Eurosport1.png"  group-title="体育" tvg-name="EUROSPORT1",Eurosport1
 https://hls.iill.top/api/Eurosport-1/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/Eurosport.png"  group-title="体育",tvg-name="EUROSPORT2",Eurosport2
+#EXTINF:-1 tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/Eurosport.png"  group-title="体育" tvg-name="EUROSPORT2",Eurosport2
 https://hls.iill.top/api/Eurosport-2/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/ESPN.png"  group-title="体育",tvg-name="ESPN",ESPN
+#EXTINF:-1 tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/ESPN.png"  group-title="体育" tvg-name="ESPN",ESPN
 http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 tvg-logo=""  group-title="体育" tvg-name="beIN Sports 1",beIN Sports 1
+https://hls.iill.top/api/beIN-Sports-1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" group-title="体育",CCTV5
 #http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
@@ -48,6 +50,8 @@ http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:3.81867 tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/BBC%20News.png" group-title="新闻",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:0 tvg-logo="" group-title="新闻",ABC News
+http://41.205.93.154/ABC/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bloomberg-television-us.png" group-title="新闻",Bloomberg Television
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:0 tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/C-SPAN.png" group-title="新闻",C-SPAN
