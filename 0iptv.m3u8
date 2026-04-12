@@ -2,7 +2,7 @@
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 #EXTINF:5.46233 tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/Global%20Toronto.png" group-title="新闻",Global Ontario CIII HDTV (GLBHD)
 https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/Eurosport.png"  group-title="体育",tvg-name="EUROSPORT1",Eurosport1
+#EXTINF:-1 tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/Eurosport.png"  group-title="体育",tvg-name="EUROSPORT1",Eurosport
 https://hls.iill.top/api/Eurosport-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/Eurosport.png"  group-title="体育",tvg-name="EUROSPORT2",Eurosport
 https://hls.iill.top/api/Eurosport-2/index.m3u8
