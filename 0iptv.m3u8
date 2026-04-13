@@ -10,6 +10,11 @@ https://hls.iill.top/api/Eurosport-2/index.m3u8
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-logo=""  group-title="体育" tvg-name="beIN Sports 1",beIN Sports1
 https://hls.iill.top/api/beIN-Sports-1/index.m3u8
+#EXTINF:-1 tvg-logo=""  group-title="体育" tvg-name="beIN Sports 2",beIN Sports2
+https://hls.iill.top/api/beIN-Sports-2/index.m3u8
+#https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 tvg-logo=""  group-title="体育" tvg-name="beIN Sports 3",beIN Sports3
+https://hls.iill.top/api/beIN-Sports-3/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" group-title="体育",CCTV5
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 #http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
@@ -30,20 +35,26 @@ http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 #http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874703_dlna.m3u8
 #EXTINF:-1 tvg-name="天元围棋" group-title="体育",天元围棋
 http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2.png" group-title="体育",五星体育
+http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
+#https://tv.iill.top/kdf/1605
+#https://cdn15.163189.xyz/163189/9c893bb003e1c7de
+#EXTINF:-1 tvg-name="新闻综合" tvg-logo="" group-title="中文",新闻综合
+https://tv.iill.top/kdf/20
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方卫视.png" group-title="中文",东方卫视
 http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
 #http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024054503_dlna.m3u8
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2.png" group-title="体育",五星体育
-http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
-#https://cdn15.163189.xyz/163189/9c893bb003e1c7de
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/%E4%B8%8A%E6%B5%B7%E9%83%BD%E5%B8%82.png" group-title="中文",上海都市
 http://38.75.136.137:98/gslb/dsdqpub/shylhd.m3u8?auth=testpub
+#https://tv.iill.top/kdf/18
 #EXTINF:0 tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/%E6%96%B0%E5%94%90%E4%BA%BA.png" group-title="新闻",新唐人
 https://live.ntdtv.com/live900/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="新闻",凤凰中文
-http://v2h.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
+https://tv.iill.top/phenix/fhzw
+#http://v2h.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
 #EXTINF:0 tvg-logo="" group-title="新闻",凤凰资讯
-http://v2h.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
+https://tv.iill.top/phenix/fhzx
+#http://v2h.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
 #EXTINF:0 tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/NHK%20World.png" group-title="新闻",NHK World Japan
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:3.3324 tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/OAN.png" group-title="新闻",OAN
@@ -60,6 +71,16 @@ http://41.205.93.154/ABC/index.m3u8
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:0 tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/C-SPAN.png" group-title="新闻",C-SPAN
 https://tvpass.org/live/CSPAN2/hd
+#EXTINF:0 tvg-logo="" group-title="电影",Discovery
+https://hls.iill.top/api/Discovery/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="电影",HBO
+https://hls.iill.top/api/HBO/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="电影",HBO Hits
+https://hls.iill.top/api/HBO-Hits/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="电影",HBO Family
+https://hls.iill.top/api/HBO-Family/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="电影",HBO Signature
+https://hls.iill.top/api/HBO-Signature/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/wild-earth-vod.png" group-title="电影",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:2.53333 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pbs-us.png" group-title="电影",PBS Nature
