@@ -1,12 +1,12 @@
 import requests
 from lxml import etree
-from datetime import datetime, timedelta
+from datetime import datetime
 import pytz
 import os
 
 SOURCE_URL = "https://epg.pw/xmltv/epg_CN.xml"
 
-def convert_beijing_to_toronto(timestr):
+def convert_fake_utc_to_toronto(timestr):
     # 原始格式：YYYYMMDDHHMMSS +0000（但真实含义是北京时间）
     dt = datetime.strptime(timestr, "%Y%m%d%H%M%S %z")
 
@@ -31,9 +31,9 @@ def main():
     # 遍历所有 <programme>，修正 start/stop
     for prog in root.findall("programme"):
         if "start" in prog.attrib:
-            prog.attrib["start"] = convert_beijing_to_toronto(prog.attrib["start"])
+            prog.attrib["start"] = convert_fake_utc_to_toronto(prog.attrib["start"])
         if "stop" in prog.attrib:
-            prog.attrib["stop"] = convert_beijing_to_toronto(prog.attrib["stop"])
+            prog.attrib["stop"] = convert_fake_utc_to_toronto(prog.attrib["stop"])
 
     os.makedirs("epg", exist_ok=True)
     with open("epg/epg.xml", "wb") as f:
