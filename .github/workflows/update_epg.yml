@@ -18,9 +18,12 @@ jobs:
       with:
         python-version: "3.10"
 
+    - name: Install Python dependencies
+      run: |
+        pip install requests lxml pytz
+    
     - name: Run EPG Fix Script
       run: |
-        pip install requests
         python epg/fix_epg.py
 
     - name: Commit updated EPG
