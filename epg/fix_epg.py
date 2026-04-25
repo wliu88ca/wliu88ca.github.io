@@ -1,38 +1,27 @@
 import requests
 from lxml import etree
-from datetime import datetime
-import pytz
 import os
 
 SOURCE_URL = "https://epg.pw/xmltv/epg_CN.xml"
-SOURCE_TZ = pytz.timezone("Asia/Shanghai")
-LOCAL_TZ = pytz.timezone("America/Toronto")
-
-def convert_time(timestr):
-    dt = datetime.strptime(timestr, "%Y%m%d%H%M%S")
-    dt = SOURCE_TZ.localize(dt)
-    dt_local = dt.astimezone(LOCAL_TZ)
-    return dt_local.strftime("%Y%m%d%H%M%S %z")
 
 def main():
+    # 下载原始 XML
     r = requests.get(SOURCE_URL, timeout=20)
     xml = r.content
 
-    # 用 lxml 的 recover 模式修复坏 XML
-    parser = etree.XMLParser(recover=True)
+    # 使用 recover + huge_tree 解析大文件
+    parser = etree.XMLParser(recover=True, huge_tree=True)
     root = etree.fromstring(xml, parser=parser)
 
-    for prog in root.findall("programme"):
-        start = prog.get("start")
-        stop = prog.get("stop")
+    # ⭐ 不做任何时区转换
+    # ⭐ 保留原始 start/stop（UTC +0000）
+    # ⭐ IPTVnator 会自动转换到本地时间
 
-        if start:
-            prog.set("start", convert_time(start[:14]))
-        if stop:
-            prog.set("stop", convert_time(stop[:14]))
-
+    # 输出文件
     os.makedirs("epg", exist_ok=True)
-    etree.ElementTree(root).write("epg/epg.xml", encoding="utf-8", xml_declaration=True)
+
+    with open("epg/epg.xml", "wb") as f:
+        f.write(etree.tostring(root, encoding="utf-8", xml_declaration=True))
 
 if __name__ == "__main__":
     main()
