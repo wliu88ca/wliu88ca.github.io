@@ -9,7 +9,7 @@ def subtract_12_hours(timestr):
     # 原始格式：YYYYMMDDHHMMSS +0000
     dt = datetime.strptime(timestr, "%Y%m%d%H%M%S %z")
 
-    # 减 12 小时（唯一有效方式）
+    # 减 12 小时（唯一对 IPTVnator 有效）
     dt_fixed = dt - timedelta(hours=12)
 
     # 保持 +0000，不动 offset
