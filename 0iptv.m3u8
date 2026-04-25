@@ -65,16 +65,16 @@ https://tvpass.org/live/CSPAN2/hd
 https://hls.iill.top/api/Discovery/index.m3u8
 #EXTINF:1 tvg-id="HBO" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/logo/HBO.png"group-title="电影",HBO
 https://hls.iill.top/api/HBO/index.m3u8
-#EXTINF:1 tvg-id="HBO Hits" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/HBO.png" group-title="电影",HBO Hits
+#EXTINF:1 tvg-id="HBO Hits" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/logo/HBO.png" group-title="电影",HBO Hits
 https://hls.iill.top/api/HBO-Hits/index.m3u8
-#EXTINF:1 tvg-id="HBO Family" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/HBO.png" group-title="电影",HBO Family
+#EXTINF:1 tvg-id="HBO Family" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/logo/HBO.png" group-title="电影",HBO Family
 https://hls.iill.top/api/HBO-Family/index.m3u8
-#EXTINF:1 tvg-id="HBO Signature" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/HBO.png" group-title="电影",HBO Signature
+#EXTINF:1 tvg-id="HBO Signature" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/logo/HBO.png" group-title="电影",HBO Signature
 https://hls.iill.top/api/HBO-Signature/index.m3u8
-#EXTINF:-1 tvg-id="beIN Sports1" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/HBO.png"  group-title="体育" tvg-name="beIN Sports 1",beIN Sports1
+#EXTINF:-1 tvg-id="beIN Sports1" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/beINSports.png"  group-title="体育" tvg-name="beIN Sports 1",beIN Sports1
 https://hls.iill.top/api/beIN-Sports-1/index.m3u8
-#EXTINF:-1 tvg-id="beIN Sports2" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/HBO.png"  group-title="体育" tvg-name="beIN Sports 2",beIN Sports2
+#EXTINF:-1 tvg-id="beIN Sports2" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/beINSports.png"  group-title="体育" tvg-name="beIN Sports 2",beIN Sports2
 https://hls.iill.top/api/beIN-Sports-2/index.m3u8
 #https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1 tvg-id="beIN Sports3" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/HBO.png"  group-title="体育" tvg-name="beIN Sports 3",beIN Sports3
+#EXTINF:-1 tvg-id="beIN Sports3" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/beINSports.png"  group-title="体育" tvg-name="beIN Sports 3",beIN Sports3
 https://hls.iill.top/api/beIN-Sports-3/index.m3u8
