@@ -1,50 +1,50 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CTVToronto" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/CTVToronto.png" group-title="新闻",CTV Toronto
+#EXTINF:-1 tvg-id="CTV Toronto" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/CTVToronto.png" group-title="新闻",CTV Toronto
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
-#EXTINF:-1 tvg-id="GlobalToronto" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/GlobalToronto.png" group-title="新闻",Global Ontario
+#EXTINF:-1 tvg-id="Global Toronto" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/GlobalToronto.png" group-title="新闻",Global Ontario
 https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
-#EXTINF:-1 tvg-id="Eurosport1" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/Eurosport1.png"  group-title="体育",Eurosport1
+#EXTINF:-1 tvg-id="Eurosport1" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/Eurosport.png"  group-title="体育",Eurosport1
 https://hls.iill.top/api/Eurosport-1/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport2" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/Eurosport2.png"  group-title="体育",Eurosport2
+#EXTINF:-1 tvg-id="Eurosport2" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/Eurosport.png"  group-title="体育",Eurosport2
 https://hls.iill.top/api/Eurosport-2/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/ESPN.png"  group-title="体育",ESPN
 http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:-1  tvg-id="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" group-title="体育",CCTV5
+#EXTINF:-1  tvg-id="CCTV5" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/logo/CCTV5.png" group-title="体育",CCTV5
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 #http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
-#EXTINF:-1  tvg-id="CCTV5+" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5+.png" group-title="体育",CCTV5+
+#EXTINF:-1  tvg-id="CCTV5+" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/logo/CCTV5 .png" group-title="体育",CCTV5+
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 #http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078003_dlna.m3u8
-#EXTINF:-1  tvg-id="CCTV16" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV16.png" group-title="体育",CCTV16
+#EXTINF:-1  tvg-id="CCTV16" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/logo/CCTV16.png" group-title="体育",CCTV16
 http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2027249301_dlna.m3u8
-#EXTINF:-1  tvg-id="央视台球" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/央视台球.png" group-title="体育",CCTV台球
+#EXTINF:-1  tvg-id="央视台球" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/logo/央视台球.jpg" group-title="体育",CCTV台球
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 #http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026875003_dlna.m3u8
-#EXTINF:-1  tvg-id="风云足球"  tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/风云足球.png" group-title="体育",CCTV风云足球
+#EXTINF:-1  tvg-id="风云足球"  tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/logo/风云足球.jpg" group-title="体育",CCTV风云足球
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 #http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026966203_dlna.m3u8
-#EXTINF:-1  tvg-id="CCTV高尔夫网球"  tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/高尔夫.网球.png" group-title="体育",CCTV高尔夫网球
+#EXTINF:-1  tvg-id="CCTV高尔夫网球"  tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/logo/高尔夫.网球.jpg" group-title="体育",CCTV高尔夫网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 #http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874703_dlna.m3u8
-#EXTINF:-1  tvg-id="天元围棋"  tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/天元围棋.png" group-title="体育",天元围棋
+#EXTINF:-1  tvg-id="天元围棋"  tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/mylogo/天元围棋.png" group-title="体育",天元围棋
 http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
 #EXTINF:-1  tvg-id="五星体育" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/五星体育.png" group-title="体育",五星体育
 http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 #https://tv.iill.top/kdf/1605
 #https://cdn15.163189.xyz/163189/9c893bb003e1c7de
-#EXTINF:-1  tvg-id="新闻综合" tvg-logo="https://wliu88ca.github.io/tvg-logo/上海新闻综合.jpg"  group-title="中文",新闻综合
+#EXTINF:-1  tvg-id="新闻综合" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/上海新闻综合.jpg"  group-title="中文",新闻综合
 https://tv.iill.top/kdf/20
-#EXTINF:-1  tvg-id="东方卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方卫视.png" group-title="中文",东方卫视
+#EXTINF:-1  tvg-id="东方卫视" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/mylogo/东方卫视.png" group-title="中文",东方卫视
 http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
 #http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024054503_dlna.m3u8
 #EXTINF:-1  tvg-id="上海都市" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/上海都市.png" group-title="中文",上海都市
 http://38.75.136.137:98/gslb/dsdqpub/shylhd.m3u8?auth=testpub
 #https://tv.iill.top/kdf/18
-#EXTINF:-1 tvg-id="凤凰中文台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰中文台.png" group-title="新闻",凤凰中文
+#EXTINF:-1 tvg-id="凤凰中文台" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/mylogo/凤凰中文台.png" group-title="新闻",凤凰中文
 https://tv.iill.top/phenix/fhzw
 #http://v2h.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/凤凰资讯台.png" group-title="新闻",凤凰资讯
+#EXTINF:-1 tvg-id="凤凰资讯台" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/mylogo/凤凰资讯台.png" group-title="新闻",凤凰资讯
 https://tv.iill.top/phenix/fhzx
 #http://v2h.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
 #EXTINF:-1 tvg-id="OAN" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/OAN.png" group-title="新闻",OAN
@@ -63,7 +63,7 @@ https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virgin
 https://tvpass.org/live/CSPAN2/hd
 #EXTINF:1 tvg-id="Discovery" tvg-logo="https://live.fanmingming.com/tv/DiscoveryHD.png"  group-title="电影",Discovery
 https://hls.iill.top/api/Discovery/index.m3u8
-#EXTINF:1 tvg-id="HBO" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/HBO.png"group-title="电影",HBO
+#EXTINF:1 tvg-id="HBO" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/logo/HBO.png"group-title="电影",HBO
 https://hls.iill.top/api/HBO/index.m3u8
 #EXTINF:1 tvg-id="HBO Hits" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/HBO.png" group-title="电影",HBO Hits
 https://hls.iill.top/api/HBO-Hits/index.m3u8
