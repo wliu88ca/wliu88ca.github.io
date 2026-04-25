@@ -15,5 +15,5 @@ xml = requests.get(URL).text
 xml = re.sub(r'start="(\d{14}) \+0800"', lambda m: f'start="{convert_time(m)}"', xml)
 xml = re.sub(r'stop="(\d{14}) \+0800"', lambda m: f'stop="{convert_time(m)}"', xml)
 
-with open("epg.xml", "w", encoding="utf-8") as f:
+with open("epg/epg.xml", "w", encoding="utf-8") as f:
     f.write(xml)
