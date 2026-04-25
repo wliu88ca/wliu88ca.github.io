@@ -10,7 +10,7 @@ def subtract_8_hours(timestr):
     dt = datetime.strptime(timestr, "%Y%m%d%H%M%S %z")
 
     # 减 8 小时（你验证的正确偏移）
-    dt_fixed = dt - timedelta(hours=8)
+    dt_fixed = dt - timedelta(hours=12)
 
     # 保持 +0000，不动 offset
     return dt_fixed.strftime("%Y%m%d%H%M%S") + " +0000"
