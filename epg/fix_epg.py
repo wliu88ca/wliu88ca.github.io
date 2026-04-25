@@ -1,18 +1,22 @@
 import requests
 from lxml import etree
-from datetime import datetime
+from datetime import datetime, timedelta
 import pytz
 import os
 
 SOURCE_URL = "https://epg.pw/xmltv/epg_CN.xml"
 
-def convert_utc_to_toronto(timestr):
-    # 原始格式：YYYYMMDDHHMMSS +0000
+def convert_beijing_to_toronto(timestr):
+    # 原始格式：YYYYMMDDHHMMSS +0000（但真实含义是北京时间）
     dt = datetime.strptime(timestr, "%Y%m%d%H%M%S %z")
 
-    # 转换到 Toronto
+    # 第一步：把“假 UTC”当成北京时间（UTC+8）
+    beijing_tz = pytz.timezone("Asia/Shanghai")
+    dt_beijing = dt.replace(tzinfo=pytz.UTC).astimezone(beijing_tz)
+
+    # 第二步：转换成 Toronto（UTC-4）
     toronto_tz = pytz.timezone("America/Toronto")
-    dt_toronto = dt.astimezone(toronto_tz)
+    dt_toronto = dt_beijing.astimezone(toronto_tz)
 
     # 输出格式：YYYYMMDDHHMMSS-0400
     return dt_toronto.strftime("%Y%m%d%H%M%S%z")
@@ -24,12 +28,12 @@ def main():
     parser = etree.XMLParser(recover=True, huge_tree=True)
     root = etree.fromstring(xml, parser=parser)
 
-    # 遍历所有 <programme>，转换 start/stop
+    # 遍历所有 <programme>，修正 start/stop
     for prog in root.findall("programme"):
         if "start" in prog.attrib:
-            prog.attrib["start"] = convert_utc_to_toronto(prog.attrib["start"])
+            prog.attrib["start"] = convert_beijing_to_toronto(prog.attrib["start"])
         if "stop" in prog.attrib:
-            prog.attrib["stop"] = convert_utc_to_toronto(prog.attrib["stop"])
+            prog.attrib["stop"] = convert_beijing_to_toronto(prog.attrib["stop"])
 
     os.makedirs("epg", exist_ok=True)
     with open("epg/epg.xml", "wb") as f:
