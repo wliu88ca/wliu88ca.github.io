@@ -1,5 +1,5 @@
 import requests
-import xml.etree.ElementTree as ET
+from lxml import etree
 from datetime import datetime
 import pytz
 import os
@@ -18,7 +18,9 @@ def main():
     r = requests.get(SOURCE_URL, timeout=20)
     xml = r.content
 
-    root = ET.fromstring(xml)
+    # 用 lxml 的 recover 模式修复坏 XML
+    parser = etree.XMLParser(recover=True)
+    root = etree.fromstring(xml, parser=parser)
 
     for prog in root.findall("programme"):
         start = prog.get("start")
@@ -30,7 +32,7 @@ def main():
             prog.set("stop", convert_time(stop[:14]))
 
     os.makedirs("epg", exist_ok=True)
-    ET.ElementTree(root).write("epg/epg.xml", encoding="utf-8", xml_declaration=True)
+    etree.ElementTree(root).write("epg/epg.xml", encoding="utf-8", xml_declaration=True)
 
 if __name__ == "__main__":
     main()
