@@ -26,16 +26,6 @@ jobs:
       run: |
         mkdir -p epg
         python epg/fix_epg.py
- 
-    - name: Debug file tree
-      run: |
-      ls -R .
-
-    - name: Run EPG Fix Script
-  run: |
-    set -e
-    mkdir -p epg
-    python epg/fix_epg.py
 
     - name: Commit updated EPG
       run: |
