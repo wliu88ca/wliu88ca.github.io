@@ -7,15 +7,15 @@ import os
 SOURCE_URL = "https://epg.pw/xmltv/epg_CN.xml"
 
 def fix_fake_utc_to_beijing(timestr):
-    # 原始格式：YYYYMMDDHHMMSS +0000（但真实含义是北京时间）
+    # 原始格式：YYYYMMDDHHMMSS +0000（真实含义是北京时间）
     dt = datetime.strptime(timestr, "%Y%m%d%H%M%S %z")
 
     # 把“假 UTC”当成北京时间（UTC+8）
     beijing_tz = pytz.timezone("Asia/Shanghai")
     dt_beijing = dt.replace(tzinfo=pytz.UTC).astimezone(beijing_tz)
 
-    # 输出格式：YYYYMMDDHHMMSS+0800
-    return dt_beijing.strftime("%Y%m%d%H%M%S%z")
+    # 输出格式：YYYYMMDDHHMMSS +0800（注意空格）
+    return dt_beijing.strftime("%Y%m%d%H%M%S") + " +0800"
 
 def main():
     r = requests.get(SOURCE_URL, timeout=20)
