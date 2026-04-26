@@ -67,18 +67,3 @@ def detect_timezone(channel):
     if lang == "ZH":
         return "+0800"
     if lang in ("EN", "CA"):
-        return "-0400"
-
-    return None  # 未知语言 → 不改
-
-
-def fix_time(t, new_offset):
-    if not t.endswith("+0000") and not t.endswith("-0000"):
-        return t
-    return t[:-5] + new_offset
-
-
-# -----------------------------
-# 下载并解析 XML
-# -----------------------------
-def load_epg(url):
