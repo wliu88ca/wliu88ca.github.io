@@ -5,26 +5,31 @@ import os
 SOURCE_URL = "https://epg.pw/xmltv/epg_TW.xml"
 
 def fix_timezone(timestr):
-    # timestr 格式：YYYYMMDDHHMMSS +0000
     if timestr.endswith("+0000"):
         return timestr[:-5] + "+0800"
     return timestr
 
 def main():
-    print("正在获取原始 epg_TW.xml 并将时区从 +0000 改为 +0800 ...")
+    print("获取原始 epg_TW.xml，并将时区从 +0000 改为 +0800，同时删除 channel id=370137 ...")
     r = requests.get(SOURCE_URL, timeout=20)
 
     parser = etree.XMLParser(recover=True, huge_tree=True)
     root = etree.fromstring(r.content, parser=parser)
 
-    # 遍历所有 <programme>
+    # 删除第一个 <channel id="370137">
+    for ch in root.findall("channel"):
+        if ch.get("id") == "370137":
+            root.remove(ch)
+            break
+
+    # 遍历所有 <programme>，只改时区
     for prog in root.findall("programme"):
         if "start" in prog.attrib:
             prog.attrib["start"] = fix_timezone(prog.attrib["start"])
         if "stop" in prog.attrib:
             prog.attrib["stop"] = fix_timezone(prog.attrib["stop"])
 
-    # 输出 epg.xml（workflow 需要这个文件名）
+    # 输出 epg.xml
     os.makedirs("epg", exist_ok=True)
     output_file = "epg/epg.xml"
 
