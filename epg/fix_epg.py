@@ -4,13 +4,13 @@ import os
 
 SOURCE_URL = "https://epg.pw/xmltv/epg_TW.xml"
 
-# 你要保留的频道 ID（必须和 EPG 的 channel id 完全一致）
+# 你要保留的频道 ID（来自 epg_TW.xml）
 KEEP_IDS = {
-    "Discovery",
-    "HBO HD",
-    "HBO 強檔鉅獻",
-    "HBO 溫馨家庭",
-    "HBO 原創鉅獻"
+    "456671",  # Discovery Asia
+    "456655",  # HBO HD
+    "456656",  # HBO 強檔鉅獻
+    "456657",  # HBO 原創鉅獻
+    "456658",  # HBO 溫馨家庭
 }
 
 def fix_timezone(timestr):
