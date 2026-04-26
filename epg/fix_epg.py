@@ -164,4 +164,4 @@ def main():
         prog.attrib["stop"] = fix_fr(prog.attrib["stop"])
         final_root.append(prog)
 
-    os.makedirs("epg", exist_ok=True
+    os.makedirs("epg", exist_ok=True)
