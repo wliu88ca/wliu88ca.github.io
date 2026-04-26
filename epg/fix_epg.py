@@ -16,7 +16,7 @@ KEEP_IDS = {
     "539362",  # Bloomberg
 }
 
-DELETE_RATIO = 0.95   # 其他频道删掉 95% 节目
+DELETE_RATIO = 0.99   # 其他频道删掉 99% 节目
 
 def fix_timezone(timestr):
     if timestr.endswith("+0000"):
