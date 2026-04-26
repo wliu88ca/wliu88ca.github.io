@@ -23,9 +23,9 @@ def main():
             break
 
     # 删除所有 <programme channel="370137">
-    for prog in root.findall("programme"):
-        if prog.get("channel") == "370137":
-            root.remove(prog)
+    to_delete = [prog for prog in root.findall("programme") if prog.get("channel") == "370137"]
+    for prog in to_delete:
+        root.remove(prog)
 
     # 改时区
     for prog in root.findall("programme"):
