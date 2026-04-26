@@ -16,7 +16,7 @@ KEEP_IDS = {
     "539362",  # Bloomberg
 }
 
-DELETE_RATIO = 0.75   # 其他频道删掉 75% 节目
+DELETE_RATIO = 0.95   # 其他频道删掉 95% 节目
 
 def fix_timezone(timestr):
     if timestr.endswith("+0000"):
@@ -24,16 +24,16 @@ def fix_timezone(timestr):
     return timestr
 
 def main():
-    print("下载 epg_TW.xml，保留指定频道，其他频道删掉 75% 节目，并改时区为 +0800 ...")
+    print("下载 epg_TW.xml，保留 7 个频道，其他频道删掉 95% 节目，并改时区为 +0800 ...")
     r = requests.get(SOURCE_URL, timeout=20)
 
     parser = etree.XMLParser(recover=True, huge_tree=True)
     root = etree.fromstring(r.content, parser=parser)
 
-    # 1. 保留所有频道（不删频道本身，避免 IPTVnator 丢弃 EPG）
-    #    频道本身不删，只删节目
+    # 1. 不删频道本身（避免 IPTVnator 丢弃 EPG）
+    #    频道越多越安全，只删节目即可
 
-    # 2. 删除其他频道的 75% <programme>
+    # 2. 删除其他频道的 95% <programme>
     for prog in root.findall("programme"):
         ch = prog.get("channel")
         if ch not in KEEP_IDS:
