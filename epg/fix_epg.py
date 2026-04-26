@@ -1,56 +1,12 @@
-import requests
-from lxml import etree
-import os
+from pathlib import Path
 
-SOURCE_URL = "https://epg.pw/xmltv/epg_TW.xml"
+src = Path("epg_TW.xml")      # 原始文件
+dst = Path("epg.xml")         # 输出文件（只改时区）
 
-# 你要保留的频道 ID（来自 epg_TW.xml）
-KEEP_IDS = {
-    "456671",  # Discovery Asia
-    "456655",  # HBO HD
-    "456656",  # HBO 強檔鉅獻
-    "456657",  # HBO 原創鉅獻
-    "456658",  # HBO 溫馨家庭
-}
+text = src.read_text(encoding="utf-8")
 
-def fix_timezone(timestr):
-    # 只改 +0000 → +0800，不动时间
-    if timestr.endswith("+0000"):
-        return timestr[:-5] + "+0800"
-    return timestr
+# 只改时区标记，不动别的
+text = text.replace(" +0000", " +0800")
 
-def main():
-    print("正在获取 epg_TW.xml 并过滤频道...")
-
-    r = requests.get(SOURCE_URL, timeout=20)
-    parser = etree.XMLParser(recover=True, huge_tree=True)
-    root = etree.fromstring(r.content, parser=parser)
-
-    # 1. 删除不在 KEEP_IDS 的 <channel>
-    for ch in root.findall("channel"):
-        if ch.attrib.get("id") not in KEEP_IDS:
-            root.remove(ch)
-
-    # 2. 删除不在 KEEP_IDS 的 <programme>
-    for prog in root.findall("programme"):
-        if prog.attrib.get("channel") not in KEEP_IDS:
-            root.remove(prog)
-            continue
-
-        # 3. 修改时区
-        if "start" in prog.attrib:
-            prog.attrib["start"] = fix_timezone(prog.attrib["start"])
-        if "stop" in prog.attrib:
-            prog.attrib["stop"] = fix_timezone(prog.attrib["stop"])
-
-    # 输出 epg.xml（workflow 需要这个文件名）
-    os.makedirs("epg", exist_ok=True)
-    output_file = "epg/epg.xml"
-
-    with open(output_file, "wb") as f:
-        f.write(etree.tostring(root, encoding="utf-8", xml_declaration=True))
-
-    print("成功生成:", os.path.abspath(output_file))
-
-if __name__ == "__main__":
-    main()
+dst.write_text(text, encoding="utf-8")
+print("done: only timezone changed")
