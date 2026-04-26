@@ -1,12 +1,37 @@
-from pathlib import Path
+import requests
+from lxml import etree
+import os
 
-src = Path("epg_TW.xml")      # 原始文件
-dst = Path("epg.xml")         # 输出文件（只改时区）
+SOURCE_URL = "https://epg.pw/xmltv/epg_TW.xml"
 
-text = src.read_text(encoding="utf-8")
+def fix_timezone(timestr):
+    # timestr 格式：YYYYMMDDHHMMSS +0000
+    if timestr.endswith("+0000"):
+        return timestr[:-5] + "+0800"
+    return timestr
 
-# 只改时区标记，不动别的
-text = text.replace(" +0000", " +0800")
+def main():
+    print("正在获取原始 epg_TW.xml 并将时区从 +0000 改为 +0800 ...")
+    r = requests.get(SOURCE_URL, timeout=20)
 
-dst.write_text(text, encoding="utf-8")
-print("done: only timezone changed")
+    parser = etree.XMLParser(recover=True, huge_tree=True)
+    root = etree.fromstring(r.content, parser=parser)
+
+    # 遍历所有 <programme>
+    for prog in root.findall("programme"):
+        if "start" in prog.attrib:
+            prog.attrib["start"] = fix_timezone(prog.attrib["start"])
+        if "stop" in prog.attrib:
+            prog.attrib["stop"] = fix_timezone(prog.attrib["stop"])
+
+    # 输出 epg.xml（workflow 需要这个文件名）
+    os.makedirs("epg", exist_ok=True)
+    output_file = "epg/epg.xml"
+
+    with open(output_file, "wb") as f:
+        f.write(etree.tostring(root, encoding="utf-8", xml_declaration=True))
+
+    print(f"成功生成: {os.path.abspath(output_file)}")
+
+if __name__ == "__main__":
+    main()
