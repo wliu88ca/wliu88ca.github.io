@@ -17,18 +17,15 @@ def main():
     root = etree.fromstring(r.content, parser=parser)
 
     # 删除 <channel id="370137">
-    for ch in root.findall("channel"):
-        if ch.get("id") == "370137":
-            root.remove(ch)
-            break
+    for ch in root.xpath(".//channel[@id='370137']"):
+        root.remove(ch)
 
     # 删除所有 <programme channel="370137">
-    to_delete = [prog for prog in root.findall("programme") if prog.get("channel") == "370137"]
-    for prog in to_delete:
+    for prog in root.xpath(".//programme[@channel='370137']"):
         root.remove(prog)
 
     # 改时区
-    for prog in root.findall("programme"):
+    for prog in root.xpath(".//programme"):
         if "start" in prog.attrib:
             prog.attrib["start"] = fix_timezone(prog.attrib["start"])
         if "stop" in prog.attrib:
