@@ -16,13 +16,18 @@ def main():
     parser = etree.XMLParser(recover=True, huge_tree=True)
     root = etree.fromstring(r.content, parser=parser)
 
-    # 删除第一个 <channel id="370137">
+    # 删除 <channel id="370137">
     for ch in root.findall("channel"):
         if ch.get("id") == "370137":
             root.remove(ch)
             break
 
-    # 遍历所有 <programme>，只改时区
+    # 删除所有 <programme channel="370137">
+    for prog in root.findall("programme"):
+        if prog.get("channel") == "370137":
+            root.remove(prog)
+
+    # 改时区
     for prog in root.findall("programme"):
         if "start" in prog.attrib:
             prog.attrib["start"] = fix_timezone(prog.attrib["start"])
