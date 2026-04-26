@@ -1,0 +1,70 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="470859" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/CTVToronto.png" group-title="新闻",CTV Toronto
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+#EXTINF:-1 tvg-id="470729" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/GlobalToronto.png" group-title="新闻",Global Toronto
+https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
+#EXTINF:-1 tvg-id="Eurosport1" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/Eurosport.png"  group-title="体育",Eurosport1
+https://hls.iill.top/api/Eurosport-1/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport2" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/Eurosport.png"  group-title="体育",Eurosport2
+https://hls.iill.top/api/Eurosport-2/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/ESPN.png"  group-title="体育",ESPN
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1  tvg-id="CCTV5" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/logo/CCTV5.png" group-title="体育",CCTV5
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
+#EXTINF:-1  tvg-id="CCTV5+" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/logo/CCTV5 .png" group-title="体育",CCTV5+
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078003_dlna.m3u8
+#EXTINF:-1  tvg-id="CCTV16" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/logo/CCTV16.png" group-title="体育",CCTV16
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2027249301_dlna.m3u8
+#EXTINF:-1  tvg-id="央视台球" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/logo/央视台球.jpg" group-title="体育",CCTV台球
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026875003_dlna.m3u8
+#EXTINF:-1  tvg-id="风云足球" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/logo/风云足球.jpg" group-title="体育",CCTV风云足球
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026966203_dlna.m3u8
+#EXTINF:-1  tvg-id="高尔夫网球" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/logo/高尔夫.网球.jpg" group-title="体育",CCTV高尔夫网球
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2026874703_dlna.m3u8
+#EXTINF:-1  tvg-id="天元围棋" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/mylogo/天元围棋.png" group-title="体育",天元围棋
+http://120.76.248.139/live/bfgd/4200000633.m3u8
+#EXTINF:-1  tvg-id="五星体育" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/五星体育.png" group-title="体育",五星体育
+https://cdn15.163189.xyz/163189/9c893bb003e1c7de
+#EXTINF:-1  tvg-id="新闻综合" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/上海新闻综合.jpg"  group-title="中文",新闻综合
+https://tv.iill.top/kdf/20
+#EXTINF:-1  tvg-id="东方卫视" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/mylogo/东方卫视.png" group-title="中文",东方卫视
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024054503_dlna.m3u8
+#EXTINF:-1  tvg-id="上海都市" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/上海都市.png" group-title="中文",上海都市
+https://tv.iill.top/kdf/18
+#EXTINF:-1 tvg-id="凤凰中文" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/mylogo/凤凰中文台.png" group-title="新闻",凤凰中文
+https://tv.iill.top/phenix/fhzw
+#http://v2h.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/mylogo/凤凰资讯台.png" group-title="新闻",凤凰资讯
+https://tv.iill.top/phenix/fhzx
+#http://v2h.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
+#EXTINF:-1 tvg-id="OAN" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/OAN.png" group-title="新闻",OAN
+https://oneamericanews-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Newsmax2 TV" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/NEWSMAX2.png" group-title="新闻",Newsmax2 TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="Fox News Now" tvg-logo="https://live.fanmingming.com/tv/FoxLive.png" group-title="新闻",Fox News Now
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="470483" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/BBCNews.png" group-title="新闻",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:1 tvg-id="abc News" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/ABC-News.jpg" group-title="新闻",abc News
+http://41.205.93.154/ABC/index.m3u8
+#EXTINF:1 tvg-id="470684" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bloomberg-television-us.png" group-title="新闻",Bloomberg Television
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF:1 tvg-id="C-SPAN" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/C-SPAN.png" group-title="新闻",C-SPAN
+https://tvpass.org/live/CSPAN2/hd
+#EXTINF:1 tvg-id="539301" tvg-logo="https://live.fanmingming.com/tv/DiscoveryHD.png"  group-title="电影",Discovery
+https://hls.iill.top/api/Discovery/index.m3u8
+#EXTINF:1 tvg-id="HBO HD" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/logo/HBO.png"group-title="电影",HBO
+https://hls.iill.top/api/HBO/index.m3u8
+#EXTINF:1 tvg-id="HBO 強檔鉅獻" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917035339263398_57.jpg" group-title="电影",HBO Hits
+https://hls.iill.top/api/HBO-Hits/index.m3u8
+#EXTINF:1 tvg-id="HBO 溫馨家庭" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917035427937773_37.jpg" group-title="电影",HBO Family
+https://hls.iill.top/api/HBO-Family/index.m3u8
+#EXTINF:1 tvg-id="HBO 原創鉅獻" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917035405130629_50.jpg" group-title="电影",HBO Signature
+https://hls.iill.top/api/HBO-Signature/index.m3u8
+#EXTINF:-1 tvg-id="beIN Sports1" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/beINSports.png"  group-title="体育" tvg-name="beIN Sports 1",beIN Sports1
+https://hls.iill.top/api/beIN-Sports-1/index.m3u8
+#EXTINF:-1 tvg-id="beIN Sports2" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/beINSports.png"  group-title="体育" tvg-name="beIN Sports 2",beIN Sports2
+https://hls.iill.top/api/beIN-Sports-2/index.m3u8
+#https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 tvg-id="beIN Sports3" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/beINSports.png"  group-title="体育" tvg-name="beIN Sports 3",beIN Sports3
+https://hls.iill.top/api/beIN-Sports-3/index.m3u8
