@@ -5,8 +5,18 @@ import random
 
 SOURCE_URL = "https://epg.pw/xmltv/epg_TW.xml"
 
-KEEP_ID = "456657"   # 只保留这个频道的所有节目
-DELETE_RATIO = 0.5   # 其他频道删掉 50%
+# 你要保留的频道（节目全部保留）
+KEEP_IDS = {
+    "456641",  # BBC News
+    "539301",  # Discovery
+    "456655",  # HBO HD
+    "456656",  # HBO 強檔鉅獻
+    "456657",  # HBO 原創鉅獻
+    "456658",  # HBO 溫馨家庭
+    "539362",  # Bloomberg
+}
+
+DELETE_RATIO = 0.75   # 其他频道删掉 75% 节目
 
 def fix_timezone(timestr):
     if timestr.endswith("+0000"):
@@ -14,22 +24,19 @@ def fix_timezone(timestr):
     return timestr
 
 def main():
-    print("下载 epg_TW.xml，保留 456657，其他频道随机删掉 50% 节目，并改时区为 +0800 ...")
+    print("下载 epg_TW.xml，保留指定频道，其他频道删掉 75% 节目，并改时区为 +0800 ...")
     r = requests.get(SOURCE_URL, timeout=20)
 
     parser = etree.XMLParser(recover=True, huge_tree=True)
     root = etree.fromstring(r.content, parser=parser)
 
-    # 1. 删除所有不是 KEEP_ID 的 <channel>（可选）
-    #    你说“其他随便删掉 50%”，频道本身删不删都行
-    #    我这里保留频道，但你要删我也能改
-    #    先保留频道更安全（IPTVnator 更不容易丢弃 EPG）
-    #    所以这里不删频道
+    # 1. 保留所有频道（不删频道本身，避免 IPTVnator 丢弃 EPG）
+    #    频道本身不删，只删节目
 
-    # 2. 删除其他频道的 50% <programme>
+    # 2. 删除其他频道的 75% <programme>
     for prog in root.findall("programme"):
         ch = prog.get("channel")
-        if ch != KEEP_ID:
+        if ch not in KEEP_IDS:
             if random.random() < DELETE_RATIO:
                 root.remove(prog)
 
