@@ -53,7 +53,7 @@ https://hls.iill.top/api/Discovery/index.m3u8
 https://hls.iill.top/api/HBO/index.m3u8
 #EXTINF:-1 tvg-id="HBO 強檔鉅獻" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917035339263398_57.jpg" group-title="电影",HBO Hits
 https://hls.iill.top/api/HBO-Hits/index.m3u8
-#EXTINF:1 tvg-id="HBO 溫馨家庭" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917035427937773_37.jpg" group-title="电影",HBO Family
+#EXTINF:-1 tvg-id="HBO 溫馨家庭" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917035427937773_37.jpg" group-title="电影",HBO Family
 https://hls.iill.top/api/HBO-Family/index.m3u8
 #EXTINF:-1 tvg-id="HBO 原創鉅獻" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917035405130629_50.jpg" group-title="电影",HBO Signature
 https://hls.iill.top/api/HBO-Signature/index.m3u8
