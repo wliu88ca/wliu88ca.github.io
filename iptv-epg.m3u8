@@ -28,11 +28,11 @@ http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024054503_dlna.m3u8
 #EXTINF:-1  tvg-id="上海都市" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/上海都市.png" group-title="中文",上海都市
 https://tv.iill.top/kdf/18
 #EXTINF:-1 tvg-id="凤凰中文" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/mylogo/凤凰中文台.png" group-title="新闻",凤凰中文
-https://tv.iill.top/phenix/fhzw
-#http://v2h.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
+http://v2h.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
+#https://tv.iill.top/phenix/fhzw
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/mylogo/凤凰资讯台.png" group-title="新闻",凤凰资讯
+http://v2h.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
 https://tv.iill.top/phenix/fhzx
-#http://v2h.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
 #EXTINF:-1 tvg-id="OAN" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/OAN.png" group-title="新闻",OAN
 https://oneamericanews-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Newsmax2 TV" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/NEWSMAX2.png" group-title="新闻",Newsmax2 TV
@@ -57,6 +57,12 @@ https://hls.iill.top/api/HBO-Hits/index.m3u8
 https://hls.iill.top/api/HBO-Family/index.m3u8
 #EXTINF:-1 tvg-id="HBO 原創鉅獻" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917035405130629_50.jpg" group-title="电影",HBO Signature
 https://hls.iill.top/api/HBO-Signature/index.m3u8
+#EXTINF:-1 tvg-id="龍華電影" tvg-logo="https://epg.pw/media/images/epg/2025/09/19/20250919173121682426_53.png" group-title="电影",龍華電影
+http://v2h.veryfast.filegear-sg.me/live/lhdy/stream.m3u8
+#EXTINF:-1 tvg-id="龍華洋片" tvg-logo="https://epg.pw/media/images/epg/2025/09/19/20250919173210969684_85.png" group-title="电影",龍華洋片
+http://v2h.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
+#EXTINF:-1 tvg-id="龍華經典" tvg-logo="https://epg.pw/media/images/epg/2025/09/19/20250919173330371551_43.png" group-title="电影",龍華經典
+http://v2h.veryfast.filegear-sg.me/live/lhjd/stream.m3u8
 #EXTINF:-1 tvg-id="beIN Sports 1" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/beINSports.png"  group-title="体育" tvg-name="beIN Sports 1",beIN Sports1
 https://hls.iill.top/api/beIN-Sports-1/index.m3u8
 #EXTINF:-1 tvg-id="beIN Sports 2" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/beINSports.png"  group-title="体育" tvg-name="beIN Sports 2",beIN Sports2
