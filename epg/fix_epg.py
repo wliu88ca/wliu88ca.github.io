@@ -6,20 +6,20 @@ import random
 EPG_URL = "https://epg.pw/xmltv/epg.xml"
 
 KEEP = {
-    "539301",
-    "456655",
-    "456656",
-    "456657",
-    "456658",
-    "470483",
-    "470859",
-    "470729",
-    "470684",
-    "444724",
-    "444725",
-    "55773",
-    "443147",
-    "54963",
+    "539301",  # Discovery
+    "456655",  # HBO HD
+    "456656",  # HBO 強檔鉅獻
+    "456657",  # HBO 原創鉅獻
+    "456658",  # HBO 溫馨家庭
+    "470483",  # BBC News (North America)
+    "470859",  # CTV Toronto HD
+    "470729",  # Global Toronto HD
+    "470684",  # BNN Bloomberg HD (替换后的 ID)
+    "444724",  # Eurosport 1
+    "444725",  # Eurosport 2
+    "55773",   # beIN SPORTS 1
+    "443147",  # beIN SPORTS 2
+    "54963",   # beIN SPORTS 3
 }
 
 FR_MAP = {
