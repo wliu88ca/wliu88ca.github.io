@@ -3,10 +3,6 @@
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 #EXTINF:-1 tvg-id="470729" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/GlobalToronto.png" group-title="新闻",Global Toronto
 https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
-#EXTINF:-1 tvg-id="Eurosport1" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/Eurosport.png"  group-title="体育",Eurosport1
-https://hls.iill.top/api/Eurosport-1/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport2" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/Eurosport.png"  group-title="体育",Eurosport2
-https://hls.iill.top/api/Eurosport-2/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/ESPN.png"  group-title="体育",ESPN
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1  tvg-id="CCTV5" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/logo/CCTV5.png" group-title="体育",CCTV5
@@ -61,10 +57,14 @@ https://hls.iill.top/api/HBO-Hits/index.m3u8
 https://hls.iill.top/api/HBO-Family/index.m3u8
 #EXTINF:1 tvg-id="HBO 原創鉅獻" tvg-logo="https://epg.pw/media/images/epg/2025/09/17/20250917035405130629_50.jpg" group-title="电影",HBO Signature
 https://hls.iill.top/api/HBO-Signature/index.m3u8
-#EXTINF:-1 tvg-id="beIN Sports1" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/beINSports.png"  group-title="体育" tvg-name="beIN Sports 1",beIN Sports1
+#EXTINF:-1 tvg-id="beIN Sports 1" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/beINSports.png"  group-title="体育" tvg-name="beIN Sports 1",beIN Sports1
 https://hls.iill.top/api/beIN-Sports-1/index.m3u8
-#EXTINF:-1 tvg-id="beIN Sports2" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/beINSports.png"  group-title="体育" tvg-name="beIN Sports 2",beIN Sports2
+#EXTINF:-1 tvg-id="beIN Sports 2" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/beINSports.png"  group-title="体育" tvg-name="beIN Sports 2",beIN Sports2
 https://hls.iill.top/api/beIN-Sports-2/index.m3u8
 #https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1 tvg-id="beIN Sports3" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/beINSports.png"  group-title="体育" tvg-name="beIN Sports 3",beIN Sports3
+#EXTINF:-1 tvg-id="beIN Sports 3" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/beINSports.png"  group-title="体育" tvg-name="beIN Sports 3",beIN Sports3
 https://hls.iill.top/api/beIN-Sports-3/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/Eurosport.png"  group-title="体育",Eurosport1
+https://hls.iill.top/api/Eurosport-1/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/Eurosport.png"  group-title="体育",Eurosport2
+https://hls.iill.top/api/Eurosport-2/index.m3u8
