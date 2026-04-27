@@ -11,6 +11,9 @@ KEEP = {
     "456656",  # HBO 強檔鉅獻
     "456657",  # HBO 原創鉅獻
     "456658",  # HBO 溫馨家庭
+    "457361",  # 龍華電影
+    "457364",  # 龍華洋片
+    "457370",  # 龍華經典  
     "470483",  # BBC News (North America)
     "470859",  # CTV Toronto HD
     "470729",  # Global Toronto HD
