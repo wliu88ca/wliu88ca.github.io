@@ -6,6 +6,8 @@ import random
 EPG_URL = "https://epg.pw/xmltv/epg.xml"
 
 KEEP = {
+    "495069",  # 凤凰中文
+    "495070",  # 凤凰资讯
     "539301",  # Discovery
     "456655",  # HBO HD
     "456656",  # HBO 強檔鉅獻
