@@ -66,7 +66,7 @@ def detect_timezone(channel):
 
     if lang == "FR":
         return "+0200"
-    if lang == "ZH":
+    if lang in ("ZH", "CN"):
         return "+0800"
     if lang in ("EN", "CA"):
         return "-0400"
