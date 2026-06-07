@@ -5,16 +5,14 @@ https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m
 https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
 #EXTINF:-1 tvg-id="494989" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/logo/CCTV5.png" group-title="体育",CCTV5
 http://198.204.228.26/live/cctv5hd.m3u8
-#http://192.151.150.154/live/cctv5hd.m3u8
 #http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 #http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
 #EXTINF:-1 tvg-id="494990" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/logo/CCTV5 .png" group-title="体育",CCTV5+
-http://192.151.150.154/live/cctv5p.m3u8
+http://198.204.228.26/live/cctv5p.m3u8
 #http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 #http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078003_dlna.m3u8
 #EXTINF:-1 tvg-id="495083" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/logo/CCTV16.png" group-title="体育",CCTV16
 http://198.204.228.26/live/cctv16hd.m3u8
-#http://192.151.150.154/live/cctv16hd.m3u8
 #http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2027249301_dlna.m3u8
 #EXTINF:-1 tvg-id="495066" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/logo/央视台球.jpg" group-title="体育",CCTV台球
@@ -44,15 +42,9 @@ http://74.91.26.218:82/live/dfwshd.m3u8
 #http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024054503_dlna.m3u8
 #EXTINF:-1 tvg-id="539846" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/上海都市.png" group-title="中文",上海都市
 http://38.75.136.137:98/gslb/dsdqpub/shylhd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="370173" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/logo/三立新闻.png" group-title="新闻",三立新聞
-https://www.youtube.com/watch?v=OF1FP30z2IY
-#EXTINF:-1 tvg-id="457215" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/logo/公视.png" group-title="新闻",公視
-https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-id="495069" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/mylogo/凤凰中文台.png" group-title="新闻",凤凰中文
-#https://tv.iill.top/phenix/fhzw
 http://v2h.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
 #EXTINF:-1 tvg-id="495070" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/mylogo/凤凰资讯台.png" group-title="新闻",凤凰资讯
-#https://tv.iill.top/phenix/fhzx
 http://v2h.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
 #EXTINF:-1 tvg-id="12546" tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/新唐人.png" group-title="新闻",新唐人
 https://live.ntdtv.com/mllive860/playlist.m3u8
