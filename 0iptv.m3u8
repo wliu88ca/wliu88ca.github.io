@@ -4,15 +4,18 @@ https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m
 #EXTINF:-1 tvg-id="470729" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/GlobalToronto.png" group-title="新闻",Global Ontario
 https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
 #EXTINF:-1 tvg-id="494989" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/logo/CCTV5.png" group-title="体育",CCTV5
-http://198.204.228.26/live/cctv5hd.m3u8
+http://173.208.234.146/live/cctv5.m3u8
+#http://198.204.228.26/live/cctv5hd.m3u8
 #http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 #http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
 #EXTINF:-1 tvg-id="494990" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/logo/CCTV5 .png" group-title="体育",CCTV5+
-http://198.204.228.26/live/cctv5p.m3u8
+http://173.208.234.146/live/cctv5p.m3u8
+#http://198.204.228.26/live/cctv5p.m3u8
 #http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 #http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078003_dlna.m3u8
 #EXTINF:-1 tvg-id="495083" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/logo/CCTV16.png" group-title="体育",CCTV16
-http://198.204.228.26/live/cctv16hd.m3u8
+http://173.208.234.146/live/cctv16.m3u8
+#http://198.204.228.26/live/cctv16hd.m3u8
 #http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2027249301_dlna.m3u8
 #EXTINF:-1 tvg-id="495066" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/logo/央视台球.jpg" group-title="体育",CCTV台球
@@ -33,19 +36,19 @@ http://198.204.228.26/live/gztywq.m3u8
 #http://120.76.248.139/live/bfgd/4200000633.m3u8
 #EXTINF:-1 tvg-id="五星体育" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/五星体育.png" group-title="体育",五星体育
 http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
-#https://tv.iill.top/kdf/1605
-#https://cdn15.163189.xyz/163189/9c893bb003e1c7de
 #EXTINF:-1 tvg-id="495009" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/mylogo/东方卫视.png" group-title="中文",东方卫视
 http://74.91.26.218:82/live/dfwshd.m3u8
 #http://192.151.150.154/live/dfwshd.m3u8
 #http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
 #http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024054503_dlna.m3u8
+#EXTINF:-1 tvg-id="新闻综合" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/mylogo/上海新闻综合.png" group-title="中文",新闻综合
+http://38.75.136.137:98/gslb/dsdqpub/shxwhd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="539846" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/上海都市.png" group-title="中文",上海都市
 http://38.75.136.137:98/gslb/dsdqpub/shylhd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="495069" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/mylogo/凤凰中文台.png" group-title="新闻",凤凰中文
-http://v2h.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
+http://173.208.234.146/live/fhzw.m3u8
 #EXTINF:-1 tvg-id="495070" tvg-logo="https://raw.giteeusercontent.com/suxuang/logo/raw/master/mylogo/凤凰资讯台.png" group-title="新闻",凤凰资讯
-http://v2h.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
+http://173.208.234.146/live/fhzx.m3u8
 #EXTINF:-1 tvg-id="12546" tvg-logo="https://github.com/wliu88ca/wliu88ca.github.io/blob/main/tvg-logo/新唐人.png" group-title="新闻",新唐人
 https://live.ntdtv.com/mllive860/playlist.m3u8
 #EXTINF:-1 tvg-id="OAN" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/OAN.png" group-title="新闻",OAN
@@ -60,6 +63,4 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 tvg-id="470353" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/C-SPAN.png" group-title="新闻",C-SPAN
 https://tvpass.org/live/CSPAN2/hd
-#EXTINF:-1 tvg-id="465198" tvg-logo="https://raw.githubusercontent.com/wliu88ca/wliu88ca.github.io/main/tvg-logo/ESPN.png"  group-title="体育",ESPN
-http://41.205.93.154/ESPN/index.m3u8
 
